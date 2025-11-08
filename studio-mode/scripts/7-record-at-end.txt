@@ -1,0 +1,6 @@
+Custom action (composite):
+– Transport: Stop
+– Transport: Go To End Of Project
+– Move Edit Cursor To Start Of Next Measure
+– Markers: Insert Marker At Current Position
+– Transport: Record
