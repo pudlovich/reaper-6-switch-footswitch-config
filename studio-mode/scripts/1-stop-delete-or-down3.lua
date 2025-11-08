@@ -6,4 +6,5 @@ if reaper.GetPlayState() > 4 then
 else
   reaper.Main_OnCommand(ITEM_DOWN_COMMAND_ID,0)
   reaper.Main_OnCommand(ITEM_DOWN_COMMAND_ID,0)
+  reaper.Main_OnCommand(ITEM_DOWN_COMMAND_ID,0)
 end
