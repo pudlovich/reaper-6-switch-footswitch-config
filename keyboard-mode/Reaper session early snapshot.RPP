@@ -1,0 +1,4228 @@
+<REAPER_PROJECT 0.1 "6.81/macOS-arm64" 1762790902
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2011.4285714285711
+  ZOOM 0.06513750164283 311 0
+  VZOOMEX 0 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 0 0
+  <RENDER_CFG
+    RlZBWAAAAAAAAAAAABAAAAAAAAAAAQAAgAcAADgEAAAAAPBBAQAAAF8AAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  METRONOMEOUT 1026
+  GLOBAL_AUTO -1
+  TEMPO 84 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B15F6ED2-06E9-E848-8014-D4F160158356}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {FA55D470-58F9-2B49-90E0-4814439CB8EF}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {E2AAC782-627D-AB40-B17A-A82E921D07F9}
+    NAME octave-down
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4224 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {E2AAC782-627D-AB40-B17A-A82E921D07F9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 289 518 785 189
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        -12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {96F4FC7D-F188-6F4E-8C9D-201F4E9B481E}
+      WAK 0 0
+    >
+  >
+  <TRACK {DF040FAC-B52F-4F4F-82F6-4043D5998035}
+    NAME octave-up
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {DF040FAC-B52F-4F4F-82F6-4043D5998035}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 723 785 189
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E323AFF8-F223-A147-8E93-5A0918687345}
+      WAK 0 0
+    >
+  >
+  <TRACK {BDDD918C-7270-924B-BCC5-E1A2D6EE538A}
+    NAME "MIDI CC router for note off"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5057 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BDDD918C-7270-924B-BCC5-E1A2D6EE538A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 743 785 170
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        120 120 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1D5443C-AEEF-A546-9226-055F44BE6888}
+      WAK 0 0
+    >
+  >
+  <TRACK {CFE2A79C-A297-5F47-97D6-30EBB195EA01}
+    NAME transpose-f
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {CFE2A79C-A297-5F47-97D6-30EBB195EA01}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 654 785 189
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        -4 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9F2E55A2-A323-3D41-909B-AFF2EF5F8C9B}
+      WAK 0 0
+    >
+  >
+  <TRACK {E1799646-509A-3740-B417-B46697517653}
+    NAME transpose-c#
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {E1799646-509A-3740-B417-B46697517653}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 418 599 785 189
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        4 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {83533DF5-BA5F-B14D-8745-896ECF40D724}
+      WAK 0 0
+    >
+  >
+  <TRACK {47F4DFBE-6F95-FB44-9145-3FE1FB2771DA}
+    NAME Prymy
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {47F4DFBE-6F95-FB44-9145-3FE1FB2771DA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 420 88 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {781C41CB-0C40-154D-ACA8-08439B63ACD2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "01 - foot keyboard Am v5.txt" 56 57 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {48CAF47F-CFD1-E042-9F3F-5C5632ADD5AF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {58FD53E2-17D3-7244-8886-A8F6C8D23236}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.71428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA1AAA61-B03F-6349-99C0-799BE85DAF3B}
+      IID 1
+      NAME "Am untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD94F774-5CDD-0D4C-B965-4CD207773DF2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {EF6679F4-D45B-B643-8076-74DE3904855A}
+        E 960 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {96659789-B492-B945-B8FB-564EBB87745B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 0
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.810417 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 24 194 1197 843 0 0 0 0 0 0 0 0 0 0.25 0 0 1 64
+      >
+    >
+  >
+  <TRACK {2ED9E038-1D36-7544-B830-AD7B485497F5}
+    NAME HARMONIES
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2ED9E038-1D36-7544-B830-AD7B485497F5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {0A115F4C-07DB-8245-B8DD-443260B227CE}
+    NAME key-agnostic
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0A115F4C-07DB-8245-B8DD-443260B227CE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {9358F640-4C62-3F49-B00C-2B4E3194075E}
+    NAME 5th
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9358F640-4C62-3F49-B00C-2B4E3194075E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 687 785 225
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0DC98CFA-A2F0-C545-9A03-9A35715729F9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "01 - foot keyboard Am v5.txt" 56 57 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {AB725395-D81B-6845-B027-AB60FDB652AC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DB398FB0-D128-F74A-8234-36ABE885B23F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        19 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ED1206CE-FDAD-884D-840D-9D89CB6FC924}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B375F890-B437-4547-BB67-1F54A4576DCA}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {6405641F-CE8C-2043-A730-3B24792DD1A9}
+    NAME M3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6405641F-CE8C-2043-A730-3B24792DD1A9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 687 785 225
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D42190B7-FBF8-A848-B359-23C398DF109C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "01 - foot keyboard Am v5.txt" 56 57 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {18BF83B0-17A4-DB4D-81A5-587D3DF073CA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {32EAA87D-AADA-5342-AD36-780A62F80817}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        16 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {421FCEBF-7215-9746-BC68-5D7D8D8D056B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {49BC8483-61AC-F84C-912D-023FD4740D43}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {E13EB6CC-ABA2-2844-A3AE-A233FE802B78}
+    NAME b7
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E13EB6CC-ABA2-2844-A3AE-A233FE802B78}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 64 651 785 229
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {77880CA5-6DF9-9848-8FC7-928B1089E310}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "01 - foot keyboard Am v5.txt" 56 57 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {413EBCCF-4FC1-B94C-84FA-30936B80F11E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E73B045B-1F7A-5F49-BF98-434DA7574725}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        22 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E98D0A6D-9077-9A4E-85B1-6BF48FB4BF64}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9CF9FF59-5A18-B248-BA31-CF39F17CFFE7}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {386B23F2-1DD1-A142-BE89-6D99577E7C08}
+    NAME "Am (C#m Fm) ||no M6M3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {386B23F2-1DD1-A142-BE89-6D99577E7C08}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {8965C895-AFFD-0748-9E3C-2D7D4DF0BD99}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8965C895-AFFD-0748-9E3C-2D7D4DF0BD99}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 663 785 249
+      SHOW 0
+      LASTSEL 5
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E18789D4-5C86-7F4C-9AFF-CADEC2E89AF2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "A1 - foot keyboard Am 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {71DAA6C5-EE89-A14D-9993-5E6D1BFFDB12}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F42CA788-CE24-FA46-89ED-4F428ED58639}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {78BDB9AA-0D7B-ED46-8A00-844CC4B41B5E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7823068A-1700-4D40-B4BF-C17230863408}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {71F7024B-F602-484C-B48C-52156921F846}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {28529352-F047-EF48-9AAC-6A66953C6D3A}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {28529352-F047-EF48-9AAC-6A66953C6D3A}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E52D6EE0-01DB-234D-8063-1F82FC802F88}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "A2 - foot keyboard Am 5ths and 6ths.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {5717A3F0-06DF-6B42-A34D-4DC337A00109}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F4E7B801-6F30-4242-910C-0700C27D8287}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {102A9283-857A-BE4A-82E2-673B6E2468F4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8DEC6629-488C-4F4C-902C-616205C90F9F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DAFF26D2-794B-BB4B-8777-05398D32414C}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {AF3D55F1-ACE3-0845-B562-84AA61FAEA24}
+    NAME "shell 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AF3D55F1-ACE3-0845-B562-84AA61FAEA24}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D9AA0149-7AF5-E149-8B78-E2C2E7FD542A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "A4 - foot keyboard Am 3rds shell.txt" 51 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {B2880A49-4F82-3A4C-8A45-7DF0071E886B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D0C2BCA-63F6-E341-B03D-05836B983A88}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65307039-7CD0-D54C-8718-39231069EF99}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {152830BF-457F-5149-9C2D-E9A18D753292}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {852F5DA7-DB5D-554F-9E11-FEE6B997F70D}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {B75B94D4-EF1C-C14D-8F78-19E87987CC78}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B75B94D4-EF1C-C14D-8F78-19E87987CC78}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1897100E-45AE-E143-AB8E-6939C45ABF30}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "A3 - foot keyboard Am 7ths shell.txt" 66 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {7E9D18EB-E525-6E4A-AA57-CF58247C4986}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {759D4C1D-043D-334B-811B-D1FF7855AE1D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {67D30D2A-F4C3-5347-90F9-6C46D299686D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2BA9699D-A668-494E-94E2-F4DF0B3C0A03}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {240C9F5D-BD3B-D747-A488-7341B9A4947B}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {3646F8E8-C892-5E40-9A79-9D712D4B670F}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3646F8E8-C892-5E40-9A79-9D712D4B670F}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {70F7B2D7-925C-D74C-A89A-6A1681D28C02}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "A5 - foot keyboard Am 5th 6ths consonant.txt" 51 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {FB425BBB-620B-114C-BC0B-E99F7A1CD2FC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9E5CDBE1-2884-8F41-9315-017D14823E60}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65C2DD3D-FF1E-484D-B75B-15F389CACDCE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {57288C40-F205-BC4E-B962-1D706F1E1342}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F894D9D6-8D9B-DD4B-AF50-0EC7F798F7CE}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {39F06FBE-F8FF-E64F-B37D-9063AE726952}
+    NAME "Dm (F#m Bbm) ||no M7M3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {39F06FBE-F8FF-E64F-B37D-9063AE726952}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {AFF871FB-32C3-E242-A102-615CAE7736CC}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AFF871FB-32C3-E242-A102-615CAE7736CC}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {217656BD-7876-E544-B6A5-823B5A6890C8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "D1 - foot keyboard Dm 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {1EADBC51-3997-C24B-9706-16BF381FE62B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C308CE11-AB78-5D46-8CB0-DF2054921B76}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E214D078-3715-1445-A894-7579B0D16BAF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B7398DCE-AA06-0545-B806-8F0ABE367B2E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {533E5EC6-C402-D749-AF53-0A65B8FCBBDC}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {5D6CBD13-65C2-4648-81AC-D373B5B42850}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5D6CBD13-65C2-4648-81AC-D373B5B42850}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A3C1AE53-CA70-834F-858E-ECC7199C1EB7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "D2 - foot keyboard Dm 5ths and 6ths.txt" 59 65 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {AE3D4A4E-ABDD-CA45-9CA9-287AA34C715D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7778A1CD-D956-364A-99B1-CDD29A7F7AC8}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5879F52B-5D71-1E4F-8333-2163F226DB2B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {82339F8A-72E4-1340-8900-633E2457746B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0B42CAE0-B8F2-C643-9F4A-82418D679635}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {7DB9BD23-C91C-2B42-87B5-618A8FCE3B07}
+    NAME "shell 3rds octave up cięcie na A"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7DB9BD23-C91C-2B42-87B5-618A8FCE3B07}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F69618FC-4574-AB49-9C33-E4DA437E3E93}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "D4 - foot keyboard Dm 3rds shell.txt" 56 73 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {B01B7CB7-3BF6-9940-A010-D5AFE781C47A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BD8643D5-1515-1C43-A764-32D673A63038}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {83728A2A-CF49-BC49-841E-F742E7D71570}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EE617588-4275-E64E-9802-17CDE84A6B14}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F78605D5-F65E-4741-BDC4-D74345B3FFD4}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {FEE31C35-C012-3A41-ABAD-7ED264E7D2B1}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FEE31C35-C012-3A41-ABAD-7ED264E7D2B1}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E83AD974-CA41-5346-9C2C-A8D354739CCD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "D3 - foot keyboard Dm 7ths shell.txt" 68 72 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {AD1AB2B8-46D0-204E-AA9C-519517D89541}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D482301C-7456-9140-AA23-5948B3A0F891}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B3409A03-3FE1-6944-BFBA-B2ADA43641AB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7BC72998-0955-A847-BDC4-3CE1C16AD370}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EC2E69FE-564A-8949-8AE0-527DE0758557}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {D8994610-600D-5647-9BF2-67F527E7963F}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D8994610-600D-5647-9BF2-67F527E7963F}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {047818CD-EC96-0A45-B7EE-35FC9B564F3A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "D5 - foot keyboard Dm 5th 6ths consonant.txt" 56 64 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {547AF23A-323B-C246-A8A7-0982889BDA3A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {322918C5-9844-A342-9058-878E3FE9F5AD}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {77EED4D3-254F-DF41-A745-208519AF9C4A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F77FF5A3-6BD5-EB4A-A407-B519ABDDF063}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {46E46B79-2179-3E43-BA17-E42BA61616C4}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {37F82DC0-55EF-784C-94BC-B7DC87C887A5}
+    NAME "Gm (Bm Ebm) ||no M7b5"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {37F82DC0-55EF-784C-94BC-B7DC87C887A5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {D4C2EB49-05DE-5749-8BB5-FB41F26BD299}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D4C2EB49-05DE-5749-8BB5-FB41F26BD299}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 453 208 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D742519C-E487-784D-B6AD-0797A76D1407}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "G1 - foot keyboard Gm 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {E51496BC-30BA-2344-9304-E4EAD9D1CD74}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2F019934-842A-B24B-8AA5-5287FCC736DD}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {574FB2B5-0A4E-FD4E-A7D3-303718FF6FE3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65257EF1-A2B9-7249-BBEC-EDF75A98BACF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5FB86F83-788B-EE47-A9B1-DE09EFBFDAD3}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {09E4DA9D-9F7F-CA44-A051-5374C61B3F70}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {09E4DA9D-9F7F-CA44-A051-5374C61B3F70}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6482A429-F0FF-654A-A4DF-A2ADC2CA94F7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "G2 - foot keyboard Gm 5ths and 6ths.txt" 51 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {F722DA31-3AA1-D246-90EF-B755F4C7E069}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F84A3862-A760-DD47-8D36-C4EF0CFB0411}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FE14D804-881E-1443-A9B6-837B47602402}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {940AA98C-6FFF-8847-BBDC-DD2FAB34046D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {02C291E6-FE77-224F-8EB2-366960AE1B70}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {BEE9CACA-81DD-F041-87F4-F3B94EEE51B4}
+    NAME "shell 3rds octave up cięcie na A"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BEE9CACA-81DD-F041-87F4-F3B94EEE51B4}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {656C1171-A628-C844-B80B-F8A8444B75A5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "G4 - foot keyboard Gm 3rds shell.txt" 60 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {3A95D7F6-F855-1243-838C-ABD41BDE99CB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B8F09985-BFA9-4D46-9B42-092928EF460C}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D745F7E3-4FFD-AE40-833E-F8943D4D2C18}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EB18FC4F-FD63-744B-9AA8-F630C5A7A75A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {82B4DCAB-6F48-D54E-8462-E4C7A970A187}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {F6780C63-0082-F04B-9015-26168E6FA02A}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6780C63-0082-F04B-9015-26168E6FA02A}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E9F05B75-B8B4-2240-99B0-DCE7581163BD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "G3 - foot keyboard Gm 7ths shell.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {B99F595F-D93F-8B4B-B089-B20ADFC56CB5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4898A3DE-985C-2846-AD72-C2FF3FEABF8D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5C6D9865-4934-BD43-87A0-B476B523F43A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FDEE4664-47D8-0D4E-A415-F8D1B6954427}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1088520-0F31-FA46-99A5-AA389A7BBA6C}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {C14BA73F-7D92-3942-AABE-FE6833559E89}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C14BA73F-7D92-3942-AABE-FE6833559E89}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {36BDC19A-8D4F-2E41-BD91-8D6F18EE27A8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "G5 - foot keyboard Gm 5th 6ths consonant.txt" 60 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {1A108B52-1871-4D4E-9401-217B599B3D7F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C94C47D6-8E33-5F42-BB57-3DCE41FEA135}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {396729D6-8F31-5D43-9EA6-F883798C59B5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BE9E8D20-6242-B043-9633-A9C3AAE10518}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A2EF88BC-D0A2-8E48-9DEF-644AE474A1FC}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {7A054CFB-5001-C348-A0E5-5A570BBF1331}
+    NAME "Cm (Em G#m) ||no b5b2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {7A054CFB-5001-C348-A0E5-5A570BBF1331}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {1480B59F-263C-594C-BDE7-EB4A3210858A}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1480B59F-263C-594C-BDE7-EB4A3210858A}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {392701D1-3389-B040-A0E5-960723A2F928}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "C1 - foot keyboard Cm 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {35F0BE13-D35C-5949-9D8D-73C1DB8EA080}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EE1F042F-1762-6F49-B832-4CD53EEAAFBB}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {278B9C99-EFCA-9949-96DC-FD710F8BF419}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {29CDEADB-52D5-2C49-84CE-D9867D305647}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5AA50469-97F4-C741-8077-B42976A4D11D}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {ABB4B336-0665-8945-9CE8-7AEAB348C420}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ABB4B336-0665-8945-9CE8-7AEAB348C420}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D5583B2B-0B91-F44A-8744-117220114A77}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "C2 - foot keyboard Cm 5ths and 6ths.txt" 64 67 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {66D64421-782E-F54B-9D05-12B8B43FBF5D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EBCC8FE1-3F37-A54F-9EDE-5AEBBF127BC7}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {60248509-7E24-E744-96E1-B45B2D72AD9B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1AB10A19-C5C1-8A45-A9C9-83AD291D7BC6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BF17EA5F-ECF0-C74D-AC59-00127C3CF395}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {F9F8824D-E3BA-3944-A156-185C692D110E}
+    NAME "shell 3rds octave up cięcie na A"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F9F8824D-E3BA-3944-A156-185C692D110E}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9DC5ADFE-8A2F-C644-9E7E-8902208D26AB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "C4 - foot keyboard Cm 3rds shell.txt" 53 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {88E3DA6B-611A-9640-9D44-58FBFB4CE9DE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {26FC43F0-64BD-BC48-BD08-C9EB2CC071AB}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5312E64F-0139-CB4C-A8FA-730D8A8130C7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8F8B3977-2C03-7E4B-9BBA-767E2261C6E5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7D06437E-3CD3-834C-806D-5A04B9146197}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {AAD6380F-CB9B-FD4E-84D0-7C273AF335A8}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AAD6380F-CB9B-FD4E-84D0-7C273AF335A8}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {411E311C-99D6-5C4B-BF07-FFBB0478B574}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "C3 - foot keyboard Cm 7ths shell.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {7FC5A911-821C-764C-961C-A7696D9AC6E4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C19241A8-8CAD-4C49-8120-18AD65940CD9}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {636231C8-768E-FE40-A419-DB300FD80164}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9FA94873-2A65-2A4D-B9E9-9C67DBB60432}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4AB362D2-E86E-004C-B3F6-A9F6476300DF}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {7DDD43F7-7D91-6541-8588-B9C47A60DB10}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7DDD43F7-7D91-6541-8588-B9C47A60DB10}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {08520A22-B0CD-AE46-B978-D24AF0834804}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "C5 - foot keyboard Cm 5th 6ths consonant.txt" 53 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {54270446-9B68-BE4B-8E2A-13345AAE7F20}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ED3E1543-B08A-8D46-BE3D-D8CBBEB0C74E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {76DD3314-E3FD-4C49-A6D7-5A9643D4624F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {61BB0DE4-59CF-224F-B13F-9B7CE13A952B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D741F31E-8905-3F48-88C2-6A565F48E74E}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {079B47CC-A34A-664C-B027-A8DAD564DA0A}
+    NAME "Fm (Am C#m) ||no b6b2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {079B47CC-A34A-664C-B027-A8DAD564DA0A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {FE4EFD67-D6BC-7742-951B-1D47020E7E7B}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FE4EFD67-D6BC-7742-951B-1D47020E7E7B}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E12BE980-C84D-784C-B419-22196FA667A6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "F1 - foot keyboard Fm 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {38022784-A7D6-3C46-A85B-77E193BC9A7F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3A2EFB8A-AC6F-7B4B-B7A7-FCEB5C03693D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {529053AF-F903-AB4A-BD22-F859321B91D3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C86D7E7-2319-4D48-B56B-119B911EB975}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A8E78CE4-A45E-5746-9CD9-E5477ECC537A}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {0228AEC3-987C-5B40-AE80-F33E31B454F7}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0228AEC3-987C-5B40-AE80-F33E31B454F7}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6277509B-B444-204B-871B-BB3256E2E806}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "F2 - foot keyboard Fm 5ths and 6ths.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {ED0B3171-0B02-764F-A21E-C731AAEEA9CB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CF4035E5-DC6D-4346-A615-F2DC50537751}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {03C0A405-2554-364E-B9CD-E3947670F95C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9577A2FD-84A4-554B-9A7B-75109605A17E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B9A9DE1C-2C21-9442-B65D-3F109189E932}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {E748ABA0-9D11-A14B-817E-97CBCCA67C3D}
+    NAME "shell 3rds octave up cięcie na A"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E748ABA0-9D11-A14B-817E-97CBCCA67C3D}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {76E5C96D-786F-E04D-A7F2-EEB72F3267FB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "F4 - foot keyboard Fm 3rds shell.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {6659468D-EA7F-2848-9A49-ABF5DC9573F8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3BB75610-5670-C647-8FE3-DA8C07DFB413}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0C96A2DF-8FB9-B14C-96EB-39B469D338DA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D2C901B6-66AB-E74F-A0E9-0F95B466781A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C0D1BF06-80DD-F94D-BAE2-DD25F5011486}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {C87D4B7A-A287-0C46-BB73-672A2E8520E0}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C87D4B7A-A287-0C46-BB73-672A2E8520E0}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {91D68EF2-C182-474F-8E5B-D1958FA410DE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "F3 - foot keyboard Fm 7ths shell.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {B1AD2068-01D0-3142-933B-61F97073750E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F4255FFB-A79D-624A-884F-F01A4F0EB43C}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {40CA3BBD-B756-2E4E-BD84-8BB721A6C50C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {49B87152-5D04-6443-856D-DD6183641339}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7801D3FF-1160-B247-A88E-D8B100BF970D}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {34B4C2F6-D47D-6449-937F-52F234E771BB}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {34B4C2F6-D47D-6449-937F-52F234E771BB}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DBE930F0-5507-5643-9F11-C20EE08FE623}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "F5 - foot keyboard Fm 5th 6ths consonant.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {920ADA0D-8823-BE45-91D5-1395870CB532}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {082F4803-665B-D942-AEB6-6EF02B2FC3EF}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A4EC3D5F-6147-1A46-A6EA-FCA7D39FACE7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {754B50BA-83B4-7F4C-9167-D8C32C0B2A59}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B464B4A9-2FEB-0949-B334-7CA07D0539CF}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {49F42B70-8D08-AE4C-82ED-CED2B0AD1E72}
+    NAME "Em (G#m Cm) ||no M2M6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {49F42B70-8D08-AE4C-82ED-CED2B0AD1E72}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7C54BA3C-B1EF-094D-A4C1-1BEC08DE1AE0}
+    NAME "direct 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7C54BA3C-B1EF-094D-A4C1-1BEC08DE1AE0}
+    PERF 0
+    AUXRECV 48 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {66FFD4C1-F0FC-3945-85D4-489F79D6415D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "E1 - foot keyboard Em 3rds direct.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {3815F973-52AF-6545-9160-4F60495733CE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {07DE9462-AF04-5D42-83DF-67A74A12202E}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69AE2791-D254-0F4E-9174-8937A5557D42}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {269E1882-664A-5A4F-BC78-4F93E13C8694}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {22EFDA9C-CD96-1A42-B224-2DE89D220BF5}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {21A6BE0F-6022-E845-8EE3-FB4466008D62}
+    NAME "5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {21A6BE0F-6022-E845-8EE3-FB4466008D62}
+    PERF 0
+    AUXRECV 50 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C78FB45D-472B-174E-BF71-53E2337DA995}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "E2 - foot keyboard Em 5ths and 6ths.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {F0714233-3354-2C45-B881-FFD9A6D8C5F1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C3734127-8A56-4248-A578-FB888A62A784}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FC7EB35F-EB0A-E34D-B951-370769278F77}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D0F0DCA9-D271-AD49-A30E-89E49A0CE591}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {18004836-6812-B740-9E12-5179C3C02182}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {A48C4EA8-C672-034D-9CAF-AA964CDCB1A5}
+    NAME "shell 3rds octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A48C4EA8-C672-034D-9CAF-AA964CDCB1A5}
+    PERF 0
+    AUXRECV 49 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FE13637B-A1F1-C349-8CD6-35184FD78DAD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "E4 - foot keyboard Em 3rds shell.txt" 64 64 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {BAB929A9-A6F0-EF45-B27C-A8F76DBFFE0B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {661F6A63-EA6C-2041-94D3-ECFEB5E0E695}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9A94839C-678A-744D-B38A-F87B75AA33AC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9F02032E-8C0B-5E42-B959-5166774E7BC2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.6 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {950BB546-1CD6-7641-9B22-C2138A7F72BF}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {4C291B51-B6D2-9A48-A15B-2F09E76D8C52}
+    NAME "shell 7ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4C291B51-B6D2-9A48-A15B-2F09E76D8C52}
+    PERF 0
+    AUXRECV 52 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0CBC8688-A278-E341-A360-7DE329D0104A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "E3 - foot keyboard Em 7ths shell.txt" 62 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {0E51E70B-ABA9-F648-A95E-A8C589BC4667}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E7D1DF7B-22F8-E248-9ED1-8528BA3ECC7D}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FD5D5C13-14F8-B14B-98EA-CF240B6C8A00}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42D9ADFA-89E5-5843-B6B5-C02208D4F39E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {86A9A45F-9A6C-5C4A-BD8E-753DEC5B6225}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {DE71F17B-046A-E048-8765-DA54F5A45EA0}
+    NAME "cons 5ths and 6ths octave up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4225 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE71F17B-046A-E048-8765-DA54F5A45EA0}
+    PERF 0
+    AUXRECV 51 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 370 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {26FC8C21-6036-F042-8941-4EE69BA310E8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "E5 - foot keyboard Em 5th 6ths consonant.txt" 64 67 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {24950A8E-B14F-7443-B9B5-47540D75A86B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4BE519CA-59E6-9C4B-93E8-40303490F8B7}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS utility/volume "library app suport reaper data ix_keymaps"
+        6 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {820A47E2-E4AC-B54E-87B9-D1672501BF74}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A9BD6C29-906D-DF48-AC2D-3E773584A7DC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_velocitycontrol ""
+        0.3 0 0 127 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A1E5A4D8-FED9-9843-8B8B-A2C4146D5D6C}
+      PARM_TCP 0
+      WAK 0 0
+    >
+  >
+  <TRACK {99815111-9263-C945-B467-658CBF82CC7D}
+    NAME "MIDI RECEIVERS"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {99815111-9263-C945-B467-658CBF82CC7D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 742 785 170
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        127 127 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {25E64E75-F124-0A4F-9DD2-EACA6E26B446}
+      WAK 0 0
+    >
+  >
+  <TRACK {84A4BCE2-7FD3-154D-BF66-1BFA60CED5B0}
+    NAME d3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {84A4BCE2-7FD3-154D-BF66-1BFA60CED5B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+  >
+  <TRACK {2905559B-A56D-0341-A365-3DA21373264D}
+    NAME sh3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2905559B-A56D-0341-A365-3DA21373264D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+  >
+  <TRACK {7B96A461-FB17-AF4C-BCA4-812425DC29DB}
+    NAME 56
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7B96A461-FB17-AF4C-BCA4-812425DC29DB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+  >
+  <TRACK {5C80AC63-2D10-BF47-A937-0869D295DC06}
+    NAME flex56
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5C80AC63-2D10-BF47-A937-0869D295DC06}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+  >
+  <TRACK {4340AAA0-6319-1244-8F7B-99B17A5ED858}
+    NAME sh7
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -2
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4340AAA0-6319-1244-8F7B-99B17A5ED858}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+  >
+  <TRACK {B5554616-70F8-8548-97A7-406557E77343}
+    NAME KAMELEON
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -4
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 4224 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B5554616-70F8-8548-97A7-406557E77343}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 301 860 542
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CDD171F6-AAE2-1844-BD2C-74BB957951A6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "02 - foot keyboard chameleon.txt" 59 58 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {B07D7891-8E4C-DE43-B5C7-213CDE87698D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        37 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CD3010A0-7E9E-0242-81DA-994A958B1043}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        5 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F2A05D31-0ACD-7649-BEF2-DFD85FD6EC54}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.71428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91075DF4-4B27-EE44-B4F1-04D34BCE657D}
+      IID 1
+      NAME "Am untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62FEA4DE-F261-2347-A6EB-F412120FF870}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1891BB1D-E03C-054F-AC7E-8A5608F20ED3}
+        E 960 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {96659789-B492-B945-B8FB-564EBB87745B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 0
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.810417 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 24 194 1197 843 0 0 0 0 0 0 0 0 0 0.25 0 0 1 64
+      >
+    >
+  >
+  <TRACK {8B477213-89C3-0349-A9AD-8C8B188A6899}
+    NAME "Receives cmd+shift+p panic"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {8B477213-89C3-0349-A9AD-8C8B188A6899}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 652 785 191
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {097B610F-4C31-764E-B4A8-3CD120C06536}
+    NAME 0-snare-always-on
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.49866990604774 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5063 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {097B610F-4C31-764E-B4A8-3CD120C06536}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 31 277 1176 663
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <AU "AUi: MT-PowerDrumKit (MANDA AUDIO)" "MANDA AUDIO: MT-PowerDrumKit" "" 1635085685 1297371204 1297370445
+        6QMAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHg4AADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PkNvbnRyb2xsZXIgU3RhdGU8L2tleT4KCTxkYXRhPgoJPC9kYXRhPgoJPGtleT5Qcm9jZXNzb3IgU3Rh
+        dGU8L2tleT4KCTxkYXRhPgoJQWdBQUFHd0NBQUM0SGtVL2lVRkFQNXFaT1QrVXdDWS9BQUFnUHd3OVBqK1I3MEkvVjVaQVA5aCtNai9ZZmpJL2pTVXcKCVA0MGxNRCtO
+        SlRBL0FBQUFQd0FBQUQ4QUFBQS9QZFN1UHB4VHNUNXZFb00rRjlrT1B4MWFSRDlrVnlJLzRaVW9QNHphCglsVDVPMUM0L1R0UXVQd0FBZ0Q4QUFJQS9BQUNBUHdBQWdE
+        OEFBSUEvQUFDQVB3QUFnRDhBQUlBL0FBQ0FQd0FBZ0Q4QQoJQUlBL0FBQ0FQd0FBZ0Q4QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUpuVFNUOEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FQd0FBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQWdEOEFBQUFBQUFBQUFBQUFBQUFBQUlBL0FB
+        Q0FQd0FBZ0Q4QUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUJFQWxENFJBSncrQUFDWVBoRUFyRDRSQUxRK0VRQzhQZ0FBQkQ4UkFNUStBQUM0UGdBQXFENEFBTkEr
+        CglBQURZUGdBQXlENEFBT2crRVFEc1BoRUExRDRBQU9BK0FBQ0lQZ0FBb0Q0QUFBQUFFUUQ4UGdBQStENFJBUFErQUFBQQoJQUJFQXpENEFBTUErQUFDd1BnQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBSkErRVFDa1BnQUEKCUFBQUFBQUEvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBL0FBQ0FQQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFB
+        QUFBQUE9Cgk8L2RhdGE+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJQUFBQUFBQUFBQUFBQUFDWkFBQUFBRDlGSHJnQUFBQUJQMEJCaVFBQUFBSS9PWm1hQUFBQUF6
+        OG13SlFBQUFBRVB5QUEKCUFBQUFBQVUvUGowTUFBQUFCajlDNzVFQUFBQUhQMENXVndBQUFBZy9NbjdZQUFBQUNUOHlmdGdBQUFBS1B6QWxqUUFBCglBQXMvTUNXTkFB
+        QUFERDh3SlkwQUFBQU5Qd0FBQUFBQUFBNC9BQUFBQUFBQUR6OEFBQUFBQUFBUVBxN1VQUUFBQUJFKwoJc1ZPY0FBQUFFajZERW04QUFBQVRQdzdaRndBQUFCUS9SRm9k
+        QUFBQUZUOGlWMlFBQUFBV1B5aVY0UUFBQUJjK2xkcU0KCUFBQUFHRDh1MUU0QUFBQVpQeTdVVGdBQUFCby9nQUFBQUFBQUd6K0FBQUFBQUFBY1A0QUFBQUFBQUIwL2dB
+        QUFBQUFBCglIaitBQUFBQUFBQWZQNEFBQUFBQUFDQS9nQUFBQUFBQUlUK0FBQUFBQUFBaVA0QUFBQUFBQUNNL2dBQUFBQUFBSkQrQQoJQUFBQUFBQWxQNEFBQUFBQUFD
+        WS9nQUFBQUFBQUp3QUFBQUFBQUFBb0FBQUFBQUFBQUNrQUFBQUFBQUFBS2dBQUFBQUEKCUFBQXJBQUFBQUFBQUFDd0FBQUFBQUFBQUxRQUFBQUFBQUFBdUFBQUFBQUFB
+        QUM4QUFBQUFBQUFBTUFBQUFBQUFBQUF4CglBQUFBQUFBQUFESUFBQUFBQUFBQU13QUFBQUFBQUFBMEFBQUFBQUFBQURVL1NkT1pBQUFBTmdBQUFBQUFBQUEzQUFBQQoJ
+        QUFBQUFEZ0FBQUFBQUFBQU9RQUFBQUFBQUFBNkFBQUFBQUFBQURzQUFBQUFBQUFBUEFBQUFBQUFBQUE5QUFBQUFBQUEKCUFENEFBQUFBQUFBQVB3QUFBQUFBQUFCQUFB
+        QUFBQUFBQUVFQUFBQUFBQUFBUWdBQUFBQUFBQUJEQUFBQUFBQUFBRVFBCglBQUFBQUFBQVJRQUFBQUFBQUFCR1A0QUFBQUFBQUVjQUFBQUFBQUFBU0FBQUFBQUFBQUJK
+        QUFBQUFBQUFBRW9BQUFBQQoJQUFBQVN3QUFBQUFBQUFCTUFBQUFBQUFBQUUwL2dBQUFBQUFBVGdBQUFBQUFBQUJQQUFBQUFBQUFBRkFBQUFBQUFBQUEKCVVUK0FBQUFB
+        QUFCU1A0QUFBQUFBQUZNL2dBQUFBQUFBVkFBQUFBQUFBQUJWQUFBQUFBQUFBRllBQUFBQUFBQUFWd0FBCglBQUFBQUFCWUFBQUFBQUFBQUZrK2xBQVJBQUFBV2o2Y0FC
+        RUFBQUJiUHBnQUFBQUFBRncrckFBUkFBQUFYVDYwQUJFQQoJQUFCZVByd0FFUUFBQUY4L0JBQUFBQUFBWUQ3RUFCRUFBQUJoUHJnQUFBQUFBR0krcUFBQUFBQUFZejdR
+        QUFBQUFBQmsKCVB0Z0FBQUFBQUdVK3lBQUFBQUFBWmo3b0FBQUFBQUJuUHV3QUVRQUFBR2crMUFBUkFBQUFhVDdnQUFBQUFBQnFQb2dBCglBQUFBQUdzK29BQUFBQUFB
+        YkFBQUFBQUFBQUJ0UHZ3QUVRQUFBRzQrK0FBQUFBQUFiejcwQUJFQUFBQndBQUFBQUFBQQoJQUhFK3pBQVJBQUFBY2o3QUFBQUFBQUJ6UHJBQUFBQUFBSFFBQUFBQUFB
+        QUFkUUFBQUFBQUFBQjJBQUFBQUFBQUFIY0EKCUFBQUFBQUFBZUFBQUFBQUFBQUI1QUFBQUFBQUFBSG9BQUFBQUFBQUFlejZRQUFBQUFBQjhQcVFBRVFBQUFIMEFBQUFB
+        CglBQUFBZmo4QUFBQUFBQUIvQUFBQUFBQUFBSUFBQUFBQUFBQUFnUUFBQUFBQUFBQ0NBQUFBQUFBQUFJTUFBQUFBQUFBQQoJaEFBQUFBQUFBQUNGQUFBQUFBQUFBSVlB
+        QUFBQUFBQUFod0FBQUFBQUFBQ0lBQUFBQUFBQUFJa0FBQUFBQUFBQWlnQUEKCUFBQUFBQUNMQUFBQUFBQUFBSXdBQUFBQUFBQUFqVDhBQUFBQUFBQ09QSUFBQUFBQUFJ
+        OEFBQUFBQUFBQWtBQUFBQUFBCglBQUNSQUFBQUFBQUFBSklBQUFBQUFBQUFrd0FBQUFBQUFBQ1VBQUFBQUFBQUFKVUFBQUFBQUFBQWxnQUFBQUFBQUFDWAoJQUFBQUFB
+        QUFBSmdBQUFBQQoJPC9kYXRhPgoJPGtleT5lbGVtZW50LW5hbWU8L2tleT4KCTxkaWN0PgoJCTxrZXk+Mjwva2V5PgoJCTxkaWN0PgoJCQk8a2V5PjA8L2tleT4KCQkJ
+        PHN0cmluZz4xIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjE8L2tleT4KCQkJPHN0cmluZz4yIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5
+        PjI8L2tleT4KCQkJPHN0cmluZz4zIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjM8L2tleT4KCQkJPHN0cmluZz40IE1ULVBvd2VyRHJ1bUtpdDwvc3Ry
+        aW5nPgoJCQk8a2V5PjQ8L2tleT4KCQkJPHN0cmluZz41IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjU8L2tleT4KCQkJPHN0cmluZz42IE1ULVBvd2Vy
+        RHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjY8L2tleT4KCQkJPHN0cmluZz43IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5Pjc8L2tleT4KCQkJPHN0cmlu
+        Zz44IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCTwvZGljdD4KCTwvZGljdD4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdlcj4xMjk3MzcwNDQ1PC9p
+        bnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2VyPjEyOTczNzEyMDQ8L2lu
+        dGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODU2ODU8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRlZ2VyPjA8L2ludGVnZXI+
+        CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F2D6BC3D-3AB8-E144-9942-6461CD73075D}
+      WAK 0 0
+    >
+  >
+  <TRACK {08B9CAE2-5D68-9449-A9D0-3F64DE7DEACB}
+    NAME "Cheeze Party Stabs existed sometime ago"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.461793046196 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {08B9CAE2-5D68-9449-A9D0-3F64DE7DEACB}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 611 547 232
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Cheeze Machine 2 (2getheraudio)" "2getheraudio Cheeze Machine 2.vst" 0 "" 1279479090<5653544C434D32636865657A656D6163> ""
+        Mk1DTO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAANXAAAAQAAAAAAEAA=
+        ewoJImJ5cGFzc2VkIjpmYWxzZSwKCSJmeEJ1c2VzIjpbXSwKCSJmeHMiOnsKCQkiYSI6W3sKCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJImZ4cyI6ewoJCQkJImEiOlt7
+        CgkJCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJCQkiaW5zdGFuY2VOYW1lIjoiTW9kdWxhdGVkIERlbGF5IDEiLAoJCQkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCQkJInBh
+        cmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjU2MDM2NTY4LDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNjQ1MDAw
+        MDQsMC4yNDAwMDAwNCwxLjAwMDAwMDAwXSwKCQkJCQkicGF0aCI6IkBNb2REZWxheSIsCgkJCQkJInBsdWdpbk5hbWUiOiJNb2R1bGF0ZWQgRGVsYXkiLAoJCQkJCSJw
+        bHVnaW5TZXR0aW5ncyI6ewoJCQkJCQkiZGVwdGhEZXppcHBlclRpbWUiOjEwMC4wMDAwMDAwMCwKCQkJCQkJIm1heERlbGF5VGltZSI6NjAuMDAwMDAwMDAsCgkJCQkJ
+        CSJtaW5EZWxheVRpbWUiOjEuMDAwMDAwMDAKCQkJCQl9LAoJCQkJCSJwcm9jZXNzaW5nTGV2ZWwiOjEsCgkJCQkJInByb2dyYW1OYW1lIjoiRGVmYXVsdCIsCgkJCQkJ
+        InVpZCI6Ik1vZHVsYXRlZCBEZWxheSAxIgoJCQkJfSx7CgkJCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJCQkiaW5zdGFuY2VOYW1lIjoiTW9kdWxhdGVkIERlbGF5IDIi
+        LAoJCQkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjU2NjA0Mzc5LDAuMDAwMDAw
+        MDAsMS4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNjQ1MDAwMDQsMC4zMjk5OTk5OCwxLjAwMDAwMDAwXSwKCQkJCQkicGF0aCI6IkBNb2REZWxheSIsCgkJCQkJInBsdWdp
+        bk5hbWUiOiJNb2R1bGF0ZWQgRGVsYXkiLAoJCQkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJCQkiZGVwdGhEZXppcHBlclRpbWUiOjEwMC4wMDAwMDAwMCwKCQkJCQkJ
+        Im1heERlbGF5VGltZSI6NjAuMDAwMDAwMDAsCgkJCQkJCSJtaW5EZWxheVRpbWUiOjEuMDAwMDAwMDAKCQkJCQl9LAoJCQkJCSJwcm9jZXNzaW5nTGV2ZWwiOjEsCgkJ
+        CQkJInByb2dyYW1OYW1lIjoiRGVmYXVsdCIsCgkJCQkJInVpZCI6Ik1vZHVsYXRlZCBEZWxheSAyIgoJCQkJfV0KCQkJfSwKCQkJImluc3RhbmNlTmFtZSI6IkZYIEdy
+        b3VwIiwKCQkJImlzU2VhbGVkIjpmYWxzZSwKCQkJIm1vZHMiOlt7CgkJCQkiYnAiOmZhbHNlLAoJCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJCSJpbnN0YW5jZU5hbWUi
+        OiJGYXN0IFNpbmUgTEZPIiwKCQkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCQkibGlua3MiOlt7CgkJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkJImUiOnRydWUsCgkJCQkJ
+        ImsiOjEuMDAwMDAwMDAsCgkJCQkJIm0iOjAuMDk1NzQ0NjgsCgkJCQkJIm8iOmZhbHNlLAoJCQkJCSJwIjo1LAoJCQkJCSJzIjowLAoJCQkJCSJ0IjowLAoJCQkJCSJ1
+        aWQiOiJNb2R1bGF0ZWQgRGVsYXkgMSIKCQkJCX0sewoJCQkJCSJNIjowLjg1MTA2Mzg1LAoJCQkJCSJlIjp0cnVlLAoJCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJCSJt
+        IjoxLjAwMDAwMDAwLAoJCQkJCSJvIjpmYWxzZSwKCQkJCQkicCI6NiwKCQkJCQkicyI6MCwKCQkJCQkidCI6MCwKCQkJCQkidWlkIjoiTW9kdWxhdGVkIERlbGF5IDEi
+        CgkJCQl9XSwKCQkJCSJvIjowLAoJCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4w
+        MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuMjAwMDAwMDUsMC41MDAwMDAwMF0sCgkJCQkicGF0aCI6ImxGU0xGTyIs
+        CgkJCQkicGx1Z2luTmFtZSI6IkZhc3QgU2luZSBMRk8iLAoJCQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkJIm1heEZyZXEiOjIwLjAwMDAwMDAwLAoJCQkJCSJtaW5G
+        cmVxIjowLjEwMDAwMDAwCgkJCQl9LAoJCQkJInByb2Nlc3NpbmdMZXZlbCI6MSwKCQkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkJInVpZCI6Il8xX2xmbzEi
+        CgkJCX0sewoJCQkJImJwIjpmYWxzZSwKCQkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCQkiaW5zdGFuY2VOYW1lIjoiRmFzdCBTaW5lIExGTyIsCgkJCQkiaXNTZWFsZWQi
+        OmZhbHNlLAoJCQkJImxpbmtzIjpbewoJCQkJCSJNIjowLjg5MzYxNzAzLAoJCQkJCSJlIjp0cnVlLAoJCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJCSJtIjoxLjAwMDAw
+        MDAwLAoJCQkJCSJvIjpmYWxzZSwKCQkJCQkicCI6NSwKCQkJCQkicyI6MCwKCQkJCQkidCI6MCwKCQkJCQkidWlkIjoiTW9kdWxhdGVkIERlbGF5IDIiCgkJCQl9LHsK
+        CQkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCQkiZSI6dHJ1ZSwKCQkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCQkibyI6ZmFsc2UsCgkJ
+        CQkJInAiOjYsCgkJCQkJInMiOjAsCgkJCQkJInQiOjAsCgkJCQkJInVpZCI6Ik1vZHVsYXRlZCBEZWxheSAyIgoJCQkJfV0sCgkJCQkibyI6MCwKCQkJCSJwYXJhbWV0
+        ZXJzIjpbMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAu
+        MDAwMDAwMDAsMS4wMDAwMDAwMCwwLjI1MDAwMDAwLDAuNTAwMDAwMDBdLAoJCQkJInBhdGgiOiJsRlNMRk8iLAoJCQkJInBsdWdpbk5hbWUiOiJGYXN0IFNpbmUgTEZP
+        IiwKCQkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJCSJtYXhGcmVxIjoyMC4wMDAwMDAwMCwKCQkJCQkibWluRnJlcSI6MC4xMDAwMDAwMAoJCQkJfSwKCQkJCSJwcm9j
+        ZXNzaW5nTGV2ZWwiOjEsCgkJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJCSJ1aWQiOiJfMV9sZm8yIgoJCQl9LHsKCQkJCSJicCI6ZmFsc2UsCgkJCQkiYnlw
+        YXNzZWQiOmZhbHNlLAoJCQkJImluc3RhbmNlTmFtZSI6IkZhc3QgU2luZSBMRk8iLAoJCQkJImlzU2VhbGVkIjpmYWxzZSwKCQkJCSJsaW5rcyI6W3sKCQkJCQkiTSI6
+        MS4wMDAwMDAwMCwKCQkJCQkiZSI6dHJ1ZSwKCQkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCQkibyI6ZmFsc2UsCgkJCQkJInAiOjks
+        CgkJCQkJInMiOjAsCgkJCQkJInQiOjAsCgkJCQkJInVpZCI6Ik1vZHVsYXRlZCBEZWxheSAyIgoJCQkJfSx7CgkJCQkJIk0iOjAuMDAwMDAwMDAsCgkJCQkJImUiOnRy
+        dWUsCgkJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkJIm0iOjEuMDAwMDAwMDAsCgkJCQkJIm8iOmZhbHNlLAoJCQkJCSJwIjo5LAoJCQkJCSJzIjowLAoJCQkJCSJ0Ijow
+        LAoJCQkJCSJ1aWQiOiJNb2R1bGF0ZWQgRGVsYXkgMSIKCQkJCX1dLAoJCQkJIm8iOjAsCgkJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAw
+        MDAwMDAwLDEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC4xMTAwMDAwMCww
+        LjUwMDAwMDAwXSwKCQkJCSJwYXRoIjoibEZTTEZPIiwKCQkJCSJwbHVnaW5OYW1lIjoiRmFzdCBTaW5lIExGTyIsCgkJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCQki
+        bWF4RnJlcSI6MjAuMDAwMDAwMDAsCgkJCQkJIm1pbkZyZXEiOjAuMTAwMDAwMDAKCQkJCX0sCgkJCQkicHJvY2Vzc2luZ0xldmVsIjoxLAoJCQkJInByb2dyYW1OYW1l
+        IjoiRGVmYXVsdCIsCgkJCQkidWlkIjoiXzFfbGZvMyIKCQkJfSx7CgkJCQkiYnAiOmZhbHNlLAoJCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJCSJpbnN0YW5jZU5hbWUi
+        OiJFbnNlbWJsZSBTbW9vdGhlciIsCgkJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkJImxpbmtzIjpbewoJCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJCSJlIjp0cnVlLAoJ
+        CQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJCSJvIjpmYWxzZSwKCQkJCQkicCI6NywKCQkJCQkicyI6MCwKCQkJCQkidCI6MCwKCQkJ
+        CQkidWlkIjoiTW9kdWxhdGVkIERlbGF5IDEiCgkJCQl9LHsKCQkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCQkiZSI6dHJ1ZSwKCQkJCQkiayI6MS4wMDAwMDAwMCwKCQkJ
+        CQkibSI6MC4wMDAwMDAwMCwKCQkJCQkibyI6ZmFsc2UsCgkJCQkJInAiOjcsCgkJCQkJInMiOjAsCgkJCQkJInQiOjAsCgkJCQkJInVpZCI6Ik1vZHVsYXRlZCBEZWxh
+        eSAyIgoJCQkJfV0sCgkJCQkibyI6MCwKCQkJCSJwYXJhbWV0ZXJzIjpbMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAw
+        LDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjY3MDAwMDAyLDAuMzEwMDAwMDBdLAoJCQkJInBhdGgiOiJAU01PIiwKCQkJCSJwbHVnaW5OYW1lIjoiU21vb3RoZXIiLAoJ
+        CQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkJIm1heERlbGF5VGltZSI6MTAwMC4wMDAwMDAwMCwKCQkJCQkibWluRGVsYXlUaW1lIjoxLjAwMDAwMDAwCgkJCQl9LAoJ
+        CQkJInByb2Nlc3NpbmdMZXZlbCI6MSwKCQkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkJInVpZCI6IkVuc2VtYmxlIFNtb290aGVyIgoJCQl9XSwKCQkJInBh
+        cmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjQ1OTk5OTk4LDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAw
+        MDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNTAwMDAwMDAsMC4wMDAwMDAwMF0sCgkJCSJwYXRoIjoiQFBhcmFsbGVsQ2hhaW4iLAoJCQkicGx1Z2luTmFtZSI6IkZY
+        IEdyb3VwIiwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MSwKCQkJInByb2dyYW1OYW1lIjoiQ00gRW5zZW1ibGUiLAoJCQkidWlkIjoiRlggR3JvdXAiCgkJfSx7CgkJCSJi
+        eXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJQaGFzZXIiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4w
+        MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjgwMDAwMDAxLDAuNzA5OTk5OTgsMC40OTk5OTk5NywwLjQ1MDAwMDA1XSwKCQkJInBhdGgi
+        OiJAUGhhc2VyIiwKCQkJInBsdWdpbk5hbWUiOiJQaGFzZXIiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJkcnlXZXREZXppcHBlclRpbWUiOjUwLjAwMDAwMDAw
+        LAoJCQkJImZlZWRiYWNrRGV6aXBwZXJUaW1lIjoyMC4wMDAwMDAwMCwKCQkJCSJtYXhMZm9GcmVxdWVuY3kiOjEwLjAwMDAwMDAwLAoJCQkJIm1pbkxmb0ZyZXF1ZW5j
+        eSI6MC4wMTAwMDAwMAoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjoxLAoJCQkicHJvZ3JhbU5hbWUiOiJDTSBQaGFzZXIiLAoJCQkidWlkIjoiUGhhc2VyIgoJCX0s
+        ewoJCQkiYnlwYXNzZWQiOmZhbHNlLAoJCQkiaW1wdWxzZTEiOiJpbXB1bHNlc1wvNDEgTWVkaXVtIEhhbGwucWJxcyIsCgkJCSJpbXB1bHNlMiI6IiIsCgkJCSJpbnN0
+        YW5jZU5hbWUiOiJDb252b2x2ZXIiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAu
+        MTQyNzI3MTEsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuNTAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAw
+        LDAuMDAwMDAwMDAsMC41MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDEuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAw
+        MDAwXSwKCQkJInBhdGgiOiJAQ29udm9sdmVyIiwKCQkJInBsdWdpbk5hbWUiOiJDb252b2x2ZXIiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJhbHNvRGVsYXlE
+        cnlTaWduYWwiOmZhbHNlLAoJCQkJImF0dGFja01heFRpbWUiOjEwLjAwMDAwMDAwLAoJCQkJImF1dG9maXRFbnZlbG9wZSI6dHJ1ZSwKCQkJCSJkZWNheU1heFRpbWUi
+        OjEwLjAwMDAwMDAwLAoJCQkJImRpc3BsYXlEYldhdmVmb3JtIjpmYWxzZSwKCQkJCSJnYWluQmVmb3JlRW52ZWxvcGUiOnRydWUsCgkJCQkiaG9sZE1heFRpbWUiOjEw
+        LjAwMDAwMDAwLAoJCQkJImxpbmVhclN0cmV0Y2giOmZhbHNlLAoJCQkJImxvbmdGRnRTaXplIjo4MTkyLAoJCQkJIm1heFN0cmV0Y2giOjQwMCwKCQkJCSJwaXRjaFBy
+        ZXNlcnZpbmdTdHJldGNoIjpmYWxzZSwKCQkJCSJwcmVzZXJ2ZVN0ZXJlbyI6ZmFsc2UsCgkJCQkicmVsZWFzZU1heFRpbWUiOjEwLjAwMDAwMDAwLAoJCQkJInNob3J0
+        RkZ0U2l6ZSI6MjA0OCwKCQkJCSJzdXN0YWluTWF4VGltZSI6MTAuMDAwMDAwMDAsCgkJCQkidXNlQmFja2dyb3VuZFRocmVhZCI6dHJ1ZSwKCQkJCSJ1c2VEaXJlY3RD
+        b252b2x2ZXIiOmZhbHNlLAoJCQkJInVzZUVudmVsb3BlIjpmYWxzZSwKCQkJCSJ1c2VUd29TdGFnZXNDb252b2x2ZXIiOnRydWUKCQkJfSwKCQkJInByb2Nlc3NpbmdM
+        ZXZlbCI6MiwKCQkJInByb2dyYW1OYW1lIjoiSGFsbCAyIiwKCQkJInVpZCI6IkNvbnZvbHZlciIKCQl9XQoJfSwKCSJpbnN0YW5jZU5hbWUiOiJJbnN0cnVtZW50IiwK
+        CSJsYXllcnMiOlt7CgkJImJ5cGFzc2VkIjpmYWxzZSwKCQkiZnhzIjp7CgkJCSJhIjpbewoJCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJCSJpbnN0YW5jZU5hbWUiOiJQ
+        YW4gLSBXSURFIiwKCQkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAs
+        MC4wMDAwMDAwMCwwLjUwMDAwMDAwXSwKCQkJCSJwYXRoIjoiQFBhbiIsCgkJCQkicGx1Z2luTmFtZSI6IlBhbiIsCgkJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCQki
+        ZGV6aXBwZXJUaW1lIjowLjAwMDAwMDAwLAoJCQkJCSJkcnlXZXREZXppcHBlclRpbWUiOjUwLjAwMDAwMDAwLAoJCQkJCSJsaW5lYXJGYWRlIjpmYWxzZSwKCQkJCQki
+        dW5pdHlDZW50ZXJHYWluIjpmYWxzZQoJCQkJfSwKCQkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJCSJ1aWQiOiIy
+        MDE3MDUwNDE1MjIxMSIKCQkJfV0KCQl9LAoJCSJpbnN0YW5jZU5hbWUiOiJMYXllcjEiLAoJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJIm1haW5FbnYiOiJFbnYiLAoJCSJt
+        aWRpUGxheWVycyI6W10sCgkJIm1vZHMiOlt7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJEb3VibGUgTWFjcm8i
+        LAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQki
+        bSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjo0LAoJCQkJInMiOjAsCgkJCQkidCI6MSwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0sewoJCQkJIk0iOjEu
+        MDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6NCwKCQkJCSJz
+        IjoxLAoJCQkJInQiOjEsCgkJCQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJCX0sewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjox
+        LjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6NiwKCQkJCSJzIjoyLAoJCQkJInQiOjEsCgkJCQkidWlkIjoiT3NjIgoJ
+        CQl9LHsKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJ
+        CQkJInAiOjYsCgkJCQkicyI6MywKCQkJCSJ0IjoxLAoJCQkJInVpZCI6IkFuYWxvZyBPc2MgRG91YmxlIgoJCQl9XSwKCQkJIm8iOjMsCgkJCSJwYXJhbWV0ZXJzIjpb
+        MS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjQzMDAwMDA0LDAuNTc5OTk5
+        OTgsMC40Nzk5OTk5OSwwLjUzMDAwMDA5XSwKCQkJInBhdGgiOiJsTUFDIiwKCQkJInBsdWdpbk5hbWUiOiJNYWNybyIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJ
+        ImQxIjoiIiwKCQkJCSJkMiI6IiIsCgkJCQkiZDMiOiIiLAoJCQkJImQ0IjoiIiwKCQkJCSJrMSI6MCwKCQkJCSJrMiI6MCwKCQkJCSJrMyI6MCwKCQkJCSJrNCI6MCwK
+        CQkJCSJzMSI6IiIsCgkJCQkiczIiOiIiLAoJCQkJInMzIjoiIiwKCQkJCSJzNCI6IiIsCgkJCQkidDEiOjAuMDAwMDAwMDAsCgkJCQkidDIiOjAuMDAwMDAwMDAsCgkJ
+        CQkidDMiOjAuMDAwMDAwMDAsCgkJCQkidDQiOjAuMDAwMDAwMDAKCQkJfSwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MSwKCQkJInByb2dyYW1OYW1lIjoiRGVmYXVsdCIs
+        CgkJCSJ1aWQiOiJEb3VibGUgTWFjcm8iCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJMZXZlbCBFbnYi
+        LAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOltdLAoJCQkibyI6MCwKCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAw
+        MCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDU2MzgwMjEsMC4wMDAwMDAwMCwwLjU0NTI2OTEzLDAuMDAwMDAwMDAsMC4yNjc0
+        OTEzNCwwLjAwMDAwMDAwLDAuMTIwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJInBhdGgiOiJAQURTUiIsCgkJCSJwbHVnaW5OYW1lIjoiRW52ZWxvcGUi
+        LAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJtYXhBdHRhY2tUaW1lIjoxNTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhEZWNheVRpbWUiOjI1MDAwLjAwMDAwMDAwLAoJ
+        CQkJIm1heERlbGF5VGltZSI6NTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhIb2xkVGltZSI6MTUwMDAuMDAwMDAwMDAsCgkJCQkibWF4UmVsZWFzZVRpbWUiOjI1MDAwLjAw
+        MDAwMDAwLAoJCQkJIm1pbkF0dGFja1RpbWUiOjAuMjUwMDAwMDAsCgkJCQkibWluRGVjYXlUaW1lIjoxLjAwMDAwMDAwLAoJCQkJIm1pbkhvbGRUaW1lIjowLjAwMDAw
+        MDAwLAoJCQkJIm1pblJlbGVhc2VUaW1lIjoxLjAwMDAwMDAwCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJ
+        CQkidWlkIjoiRW52IgoJCX0sewoJCQkiYnAiOmZhbHNlLAoJCQkiYnlwYXNzZWQiOmZhbHNlLAoJCQkiaW5zdGFuY2VOYW1lIjoiVmVsIEJyaWdodG5lc3MiLAoJCQki
+        aXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4w
+        MDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjoxMSwKCQkJCSJzIjowLAoJCQkJInQiOjAsCgkJCQkidWlkIjoiT3NjIgoJCQl9LHsKCQkJCSJNIjoxLjAwMDAw
+        MDAwLAoJCQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjExLAoJCQkJInMiOjAs
+        CgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJBbmFsb2cgT3NjIERvdWJsZSIKCQkJfSx7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjAuNTEx
+        NzE4NzUsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjozLAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0s
+        ewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjowLjUxMTcxODc1LAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQki
+        cCI6MywKCQkJCSJzIjowLAoJCQkJInQiOjAsCgkJCQkidWlkIjoiU3ViIE9zYyIKCQkJfSx7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsi
+        OjAuNTA4MzI0MDMsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjozLAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJBbmFs
+        b2cgT3NjIERvdWJsZSIKCQkJfV0sCgkJCSJvIjowLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4w
+        MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNTAwMDAwMDBdLAoJCQkicGF0aCI6Im5WZWwiLAoJCQkicGx1Z2luTmFt
+        ZSI6IlZlbG9jaXR5IiwKCQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkibWF4IjoxMjcsCgkJCQkibWluIjowCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJ
+        CSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkidWlkIjoiVmVsQnJpZ2h0bmVzcyIKCQl9LHsKCQkJImJwIjpmYWxzZSwKCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJ
+        Imluc3RhbmNlTmFtZSI6IkFmdGVydG91Y2ggQnJpZ2h0bmVzcyIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjoxLjAwMDAwMDAwLAoJ
+        CQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjExLAoJCQkJInMiOjAsCgkJCQki
+        dCI6MCwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0sewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAw
+        MDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6MTEsCgkJCQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6IkFuYWxvZyBPc2MgRG91YmxlIgoJCQl9XSwKCQkJ
+        Im8iOjAsCgkJCSJwYXJhbWV0ZXJzIjpbMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAw
+        MDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC41MDAwMDAwMF0sCgkJCSJwYXRoIjoibkFmdCIsCgkJCSJwbHVnaW5OYW1lIjoiQWZ0ZXJ0b3VjaCIsCgkJCSJwbHVn
+        aW5TZXR0aW5ncyI6ewoJCQkJIm1heCI6MTI3LAoJCQkJIm1pbiI6MAoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjowLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0
+        IiwKCQkJInVpZCI6IkFmdEJyaWdodG5lc3MiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJNb2RXaGVl
+        bCIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjowLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJ
+        CSJtIjoxLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjExLAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0sewoJCQkJIk0i
+        OjAuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjEuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6MTEsCgkJ
+        CQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6IkFuYWxvZyBPc2MgRG91YmxlIgoJCQl9XSwKCQkJIm8iOjAsCgkJCSJwYXJhbWV0ZXJzIjpbMS4wMDAwMDAwMCww
+        LjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC41MjU3ODE2
+        MywwLjAwNzg3NDAyLDAuMDAwMDAwMDBdLAoJCQkicGF0aCI6Im5DQyIsCgkJCSJwbHVnaW5OYW1lIjoiTUlESSBDQyIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJ
+        Im1heCI6MTI3LAoJCQkJIm1pbiI6MAoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjoxLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJInVpZCI6Ik1XQnJp
+        Z2h0bmVzcyIKCQl9LHsKCQkJImJwIjpmYWxzZSwKCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJImluc3RhbmNlTmFtZSI6IkJyaWdodG5lc3MgRW52IiwKCQkJImlzU2Vh
+        bGVkIjpmYWxzZSwKCQkJImxpbmtzIjpbewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAwMDAw
+        MDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6MTEsCgkJCQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6Ik9zYyIKCQkJfSx7CgkJCQkiTSI6MS4wMDAwMDAwMCwK
+        CQkJCSJlIjp0cnVlLAoJCQkJImsiOjAuNTQ3NjE5MDQsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjoxMSwKCQkJCSJzIjowLAoJCQkJ
+        InQiOjAsCgkJCQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJCX1dLAoJCQkibyI6MCwKCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4w
+        MDAwMDAwMCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDkwMTkwOTUsMC4wMDAwMDAwMCwwLjU0NTI2OTEzLDAuMDAwMDAwMDAs
+        MC4yNTYzODAyMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJInBhdGgiOiJAQURTUiIsCgkJCSJwbHVnaW5OYW1lIjoiRW52
+        ZWxvcGUiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJtYXhBdHRhY2tUaW1lIjoxNTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhEZWNheVRpbWUiOjI1MDAwLjAwMDAw
+        MDAwLAoJCQkJIm1heERlbGF5VGltZSI6NTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhIb2xkVGltZSI6MTUwMDAuMDAwMDAwMDAsCgkJCQkibWF4UmVsZWFzZVRpbWUiOjI1
+        MDAwLjAwMDAwMDAwLAoJCQkJIm1pbkF0dGFja1RpbWUiOjAuMjUwMDAwMDAsCgkJCQkibWluRGVjYXlUaW1lIjoxLjAwMDAwMDAwLAoJCQkJIm1pbkhvbGRUaW1lIjow
+        LjAwMDAwMDAwLAoJCQkJIm1pblJlbGVhc2VUaW1lIjoxLjAwMDAwMDAwCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1
+        bHQiLAoJCQkidWlkIjoiQkVudiIKCQl9LHsKCQkJImJwIjpmYWxzZSwKCQkJImJ5cGFzc2VkIjp0cnVlLAoJCQkiaW5zdGFuY2VOYW1lIjoiQnJpZ2h0bmVzcyBFbnYg
+        KG1vbm8pIiwKCQkJImlzU2VhbGVkIjpmYWxzZSwKCQkJImxpbmtzIjpbewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAw
+        LAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6MTEsCgkJCQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6Ik9zYyIKCQkJfSx7CgkJ
+        CQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjAuNTAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjox
+        MSwKCQkJCSJzIjowLAoJCQkJInQiOjAsCgkJCQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJCX1dLAoJCQkibyI6MCwKCQkJInBhcmFtZXRlcnMiOlswLjAwMDAw
+        MDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDkwMTkwOTUsMC4wMDAwMDAwMCwwLjU0
+        NTI2OTEzLDAuMDAwMDAwMDAsMC4yNTYzODAyMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJInBhdGgiOiJAQURTUiIsCgkJ
+        CSJwbHVnaW5OYW1lIjoiRW52ZWxvcGUiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJtYXhBdHRhY2tUaW1lIjoxNTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhEZWNh
+        eVRpbWUiOjI1MDAwLjAwMDAwMDAwLAoJCQkJIm1heERlbGF5VGltZSI6NTAwMC4wMDAwMDAwMCwKCQkJCSJtYXhIb2xkVGltZSI6MTUwMDAuMDAwMDAwMDAsCgkJCQki
+        bWF4UmVsZWFzZVRpbWUiOjI1MDAwLjAwMDAwMDAwLAoJCQkJIm1pbkF0dGFja1RpbWUiOjAuMjUwMDAwMDAsCgkJCQkibWluRGVjYXlUaW1lIjoxLjAwMDAwMDAwLAoJ
+        CQkJIm1pbkhvbGRUaW1lIjowLjAwMDAwMDAwLAoJCQkJIm1pblJlbGVhc2VUaW1lIjoxLjAwMDAwMDAwCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJCSJw
+        cm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkidWlkIjoiQkVudiAobW9ubykiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0
+        YW5jZU5hbWUiOiJCRW52IE1vbm8gVHJpZ2dlciIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRy
+        dWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjE0LAoJCQkJInMiOjEsCgkJCQkidCI6MSwKCQkJ
+        CSJ1aWQiOiJCRW52IChtb25vKSIKCQkJfV0sCgkJCSJvIjoxLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAw
+        MDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDBdLAoJCQkicGF0aCI6Im5DbnQiLAoJCQkicGx1Z2luTmFtZSI6Ik5vdGUgQ291bnQiLAoJCQkicHJvY2Vz
+        c2luZ0xldmVsIjoxLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJInVpZCI6IjIwMTcwNTA2MTQ1OTE4IgoJCX0sewoJCQkiYnAiOmZhbHNlLAoJCQkiYnlw
+        YXNzZWQiOmZhbHNlLAoJCQkiaW5zdGFuY2VOYW1lIjoiVmlicmF0byBMRk8iLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAw
+        MDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjo2LAoJCQkJInMiOjAs
+        CgkJCQkidCI6MSwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0sewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0i
+        OjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQkicCI6NiwKCQkJCSJzIjowLAoJCQkJInQiOjEsCgkJCQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJCX1d
+        LAoJCQkibyI6MCwKCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCww
+        LjAwMDAwMDAwLDAuMzMzMzMzMzQsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNjU5OTk5OTcsMC41MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDBdLAoJCQkicGF0
+        aCI6ImxMRk8iLAoJCQkicGx1Z2luTmFtZSI6IkxGTyIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJImxlZ2FjeU1vZGUiOmZhbHNlLAoJCQkJIm1heEZyZXEiOjIw
+        LjAwMDAwMDAwLAoJCQkJIm1pbkZyZXEiOjAuMTAwMDAwMDAsCgkJCQkib25lU2hvdCI6ZmFsc2UsCgkJCQkic2hhcGVzIjoiWzEsMiwzLDRdIiwKCQkJCSJzdGFydFBo
+        YXNlcyI6Wy0xLjAwMDAwMDAwLC0xLjAwMDAwMDAwLDAuMDAwMDAwMDAsLTAuNTAwMDAwMDAsLTEuMDAwMDAwMDBdCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAs
+        CgkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkidWlkIjoiVmlicmF0byBMRk8iCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJ
+        CSJpbnN0YW5jZU5hbWUiOiJWaWJyYXRvIFJhbXAiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0
+        cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjozLAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJ
+        CSJ1aWQiOiJWaWJyYXRvIExGTyIKCQkJfV0sCgkJCSJvIjowLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAw
+        MDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuNTAwMDAwMDAsMC4zMTAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJ
+        InBhdGgiOiJAUmFtcCIsCgkJCSJwbHVnaW5OYW1lIjoiUmFtcCIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJIm1heFRpbWUiOjEwMDAwLjAwMDAwMDAwLAoJCQkJ
+        Im1pblRpbWUiOjEwLjAwMDAwMDAwLAoJCQkJInRyaWdnZXJBdFN0YXJ0dXAiOnRydWUKCQkJfSwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MCwKCQkJInByb2dyYW1OYW1l
+        IjoiRGVmYXVsdCIsCgkJCSJ1aWQiOiJWaWJyYXRvIFJhbXAiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6dHJ1ZSwKCQkJImluc3RhbmNlTmFtZSI6
+        Ik5vdGUgTnVtYmVyIC0gV0lERSIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQki
+        ayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjUsCgkJCQkicyI6MCwKCQkJCSJ0IjoxLAoJCQkJInVpZCI6IjIw
+        MTcwNTA0MTUyMjExIgoJCQl9XSwKCQkJIm8iOjAsCgkJCSJwYXJhbWV0ZXJzIjpbMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAw
+        MDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC41MDAwMDAwMF0sCgkJCSJwYXRoIjoiblBvcyIsCgkJCSJwbHVnaW5OYW1l
+        IjoiTm90ZSBOdW1iZXIiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJtYXgiOjEyNywKCQkJCSJtaW4iOjAKCQkJfSwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MCwK
+        CQkJInByb2dyYW1OYW1lIjoiRGVmYXVsdCIsCgkJCSJ1aWQiOiJOb3RlIE51bWJlciAtIFdJREUiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFs
+        c2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJSYW5kb20iLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0
+        cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjo4LAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJ
+        CSJ1aWQiOiIyMDE3MDUxMTE1MjQ1OSIKCQkJfV0sCgkJCSJvIjowLAoJCQkicGFyYW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAw
+        MDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4yMjAwMDAwMCwxLjAwMDAwMDAwLDAuNzMwMDAwMTRdLAoJCQkicGF0aCI6ImxSQU5EIiwKCQkJ
+        InBsdWdpbk5hbWUiOiJSYW5kb20iLAoJCQkicHJvY2Vzc2luZ0xldmVsIjoxLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJInVpZCI6IjIwMTcwNTExMTUy
+        MDU2IgoJCX0sewoJCQkiYnAiOmZhbHNlLAoJCQkiYnlwYXNzZWQiOmZhbHNlLAoJCQkiaW5zdGFuY2VOYW1lIjoiU21vb3RoZXIiLAoJCQkiaXNTZWFsZWQiOmZhbHNl
+        LAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJCQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJv
+        IjpmYWxzZSwKCQkJCSJwIjoxMywKCQkJCSJzIjowLAoJCQkJInQiOjEsCgkJCQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJCX1dLAoJCQkibyI6MCwKCQkJInBh
+        cmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjQ0MDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAw
+        MDAsMS4wMDAwMDAwMF0sCgkJCSJwYXRoIjoiQFNNTyIsCgkJCSJwbHVnaW5OYW1lIjoiU21vb3RoZXIiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJtYXhEZWxh
+        eVRpbWUiOjEwMDAuMDAwMDAwMDAsCgkJCQkibWluRGVsYXlUaW1lIjoxLjAwMDAwMDAwCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjEsCgkJCSJwcm9ncmFtTmFt
+        ZSI6IkRlZmF1bHQiLAoJCQkidWlkIjoiMjAxNzA1MTExNTI0NTkiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5h
+        bWUiOiJCcmlnaHRuZXNzU21vb3RoZXIiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkibGlua3MiOlt7CgkJCQkiTSI6MS4wMDAwMDAwMCwKCQkJCSJlIjp0cnVlLAoJ
+        CQkJImsiOjEuMDAwMDAwMDAsCgkJCQkibSI6MC4wMDAwMDAwMCwKCQkJCSJvIjpmYWxzZSwKCQkJCSJwIjoxMSwKCQkJCSJzIjowLAoJCQkJInQiOjAsCgkJCQkidWlk
+        IjoiT3NjIgoJCQl9LHsKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8i
+        OmZhbHNlLAoJCQkJInAiOjExLAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJBbmFsb2cgT3NjIERvdWJsZSIKCQkJfV0sCgkJCSJvIjowLAoJCQkicGFy
+        YW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4zMTAwMDAw
+        MCwwLjc4NDk5OTkxXSwKCQkJInBhdGgiOiJAU01PIiwKCQkJInBsdWdpbk5hbWUiOiJTbW9vdGhlciIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJIm1heERlbGF5
+        VGltZSI6MTAwMC4wMDAwMDAwMCwKCQkJCSJtaW5EZWxheVRpbWUiOjEuMDAwMDAwMDAKCQkJfSwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MCwKCQkJInByb2dyYW1OYW1l
+        IjoiRGVmYXVsdCIsCgkJCSJ1aWQiOiJCcmlnaHRuZXNzU21vb3RoZXIiCgkJfSx7CgkJCSJicCI6ZmFsc2UsCgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5j
+        ZU5hbWUiOiJQd21TbW9vdGhlciIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQki
+        ayI6MS4wMDAwMDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjE1LAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJP
+        c2MiCgkJCX0sewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFs
+        c2UsCgkJCQkicCI6MTUsCgkJCQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6IkFuYWxvZyBPc2MgRG91YmxlIgoJCQl9XSwKCQkJIm8iOjAsCgkJCSJwYXJhbWV0
+        ZXJzIjpbMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjUxOTk5OTk4LDAu
+        NTA5OTk5OTldLAoJCQkicGF0aCI6IkBTTU8iLAoJCQkicGx1Z2luTmFtZSI6IlNtb290aGVyIiwKCQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkibWF4RGVsYXlUaW1l
+        IjoxMDAwLjAwMDAwMDAwLAoJCQkJIm1pbkRlbGF5VGltZSI6MS4wMDAwMDAwMAoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjowLAoJCQkicHJvZ3JhbU5hbWUiOiJE
+        ZWZhdWx0IiwKCQkJInVpZCI6IlB3bVNtb290aGVyIgoJCX0sewoJCQkiYnAiOmZhbHNlLAoJCQkiYnlwYXNzZWQiOmZhbHNlLAoJCQkiaW5zdGFuY2VOYW1lIjoiU2hh
+        cGVTbW9vdGhlciIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJsaW5rcyI6W3sKCQkJCSJNIjoxLjAwMDAwMDAwLAoJCQkJImUiOnRydWUsCgkJCQkiayI6MS4wMDAw
+        MDAwMCwKCQkJCSJtIjowLjAwMDAwMDAwLAoJCQkJIm8iOmZhbHNlLAoJCQkJInAiOjE0LAoJCQkJInMiOjAsCgkJCQkidCI6MCwKCQkJCSJ1aWQiOiJPc2MiCgkJCX0s
+        ewoJCQkJIk0iOjEuMDAwMDAwMDAsCgkJCQkiZSI6dHJ1ZSwKCQkJCSJrIjoxLjAwMDAwMDAwLAoJCQkJIm0iOjAuMDAwMDAwMDAsCgkJCQkibyI6ZmFsc2UsCgkJCQki
+        cCI6MTQsCgkJCQkicyI6MCwKCQkJCSJ0IjowLAoJCQkJInVpZCI6IkFuYWxvZyBPc2MgRG91YmxlIgoJCQl9XSwKCQkJIm8iOjAsCgkJCSJwYXJhbWV0ZXJzIjpbMS4w
+        MDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjEwMDAwMDAwLDAuMzYwMDAwMDFd
+        LAoJCQkicGF0aCI6IkBTTU8iLAoJCQkicGx1Z2luTmFtZSI6IlNtb290aGVyIiwKCQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkibWF4RGVsYXlUaW1lIjoxMDAwLjAw
+        MDAwMDAwLAoJCQkJIm1pbkRlbGF5VGltZSI6MS4wMDAwMDAwMAoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjowLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwK
+        CQkJInVpZCI6IlNoYXBlU21vb3RoZXIiCgkJfV0sCgkJIm9zY0dsb2JhbFBhcmFtZXRlcnMiOnsKCQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJImluc3RhbmNlTmFtZSI6
+        IkxheWVyMS5vc2NHbG9iYWxQYXJhbWV0ZXJzIiwKCQkJImlzU2VhbGVkIjpmYWxzZSwKCQkJImtleVRyYWNrVmFsaWQiOnRydWUsCgkJCSJuY29wIjo4LAoJCQkicGFy
+        YW1ldGVycyI6WzEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuNTAwMDAwMDAsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuNTAwMDAwMDAsMC41MDAwMDAw
+        MCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMF0sCgkJCSJwYXRoIjoiQExheWVyR2xvYmFsT3NjUGFyYW1ldGVycyIsCgkJCSJwbHVnaW5OYW1lIjoiR2xv
+        YmFsT3NjIiwKCQkJInBsdWdpblNldHRpbmdzIjp7CgkJCQkiZ2FpbkJvb3N0IjowLjAwMDAwMDAwLAoJCQkJIm1heFBvcnRhVGltZSI6NDAwLjAwMDAwMDAwLAoJCQkJ
+        InBpdGNoUmFuZ2UiOjQ4LAoJCQkJInNraXBSZW5kZXJpbmdJZlplcm9MZXZlbCI6ZmFsc2UsCgkJCQkidHJhbnNwb3NlUmFuZ2UiOjEyCgkJCX0sCgkJCSJwcm9jZXNz
+        aW5nTGV2ZWwiOjAsCgkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCQkidWlkIjoiTGF5ZXIxLm9zY0dsb2JhbFBhcmFtZXRlcnMiCgkJfSwKCQkib3NjcyI6W3sK
+        CQkJImJ5cGFzc2VkIjpmYWxzZSwKCQkJImluc3RhbmNlTmFtZSI6IkFuYWxvZyBPc2MiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkia2V5VHJhY2tWYWxpZCI6dHJ1
+        ZSwKCQkJIm5jb3AiOjgsCgkJCSJwYXJhbWV0ZXJzIjpbMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuNTAwMDAw
+        MDAsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjU5NDk5OTk3LDEuMDAw
+        MDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMC4wMDAwMDAwMF0sCgkJCSJwYXRoIjoiQEFubGciLAoJCQkicGx1Z2luTmFtZSI6IkFuYWxvZyBP
+        c2MiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJnYWluQm9vc3QiOjAuMDAwMDAwMDAsCgkJCQkiaGlxIjpmYWxzZSwKCQkJCSJsZWdhY3lEZXR1bmluZyI6ZmFs
+        c2UsCgkJCQkibWF4UG9ydGFUaW1lIjo0MDAuMDAwMDAwMDAsCgkJCQkicGl0Y2hSYW5nZSI6NDgsCgkJCQkic2tpcFJlbmRlcmluZ0lmWmVyb0xldmVsIjpmYWxzZSwK
+        CQkJCSJ0cmFuc3Bvc2VSYW5nZSI6MTIKCQkJfSwKCQkJInByb2Nlc3NpbmdMZXZlbCI6MCwKCQkJInByb2dyYW1OYW1lIjoiRGVmYXVsdCIsCgkJCSJ1aWQiOiJPc2Mi
+        CgkJfSx7CgkJCSJieXBhc3NlZCI6dHJ1ZSwKCQkJImluc3RhbmNlTmFtZSI6IlN1YiBPc2MiLAoJCQkiaXNTZWFsZWQiOmZhbHNlLAoJCQkia2V5VHJhY2tWYWxpZCI6
+        dHJ1ZSwKCQkJIm5jb3AiOjgsCgkJCSJwYXJhbWV0ZXJzIjpbMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4xNjAwMDAwMywwLjUwMDAwMDAwLDAuNTAw
+        MDAwMDAsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAu
+        MzMzMzMzMzQsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuNTAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJInBhdGgiOiJAU0FubGciLAoJCQkicGx1Z2lu
+        TmFtZSI6IkFuYWxvZyBPc2MgKFNpbXBsZSkiLAoJCQkicGx1Z2luU2V0dGluZ3MiOnsKCQkJCSJnYWluQm9vc3QiOjAuMDAwMDAwMDAsCgkJCQkiaGlxIjpmYWxzZSwK
+        CQkJCSJtYXhQb3J0YVRpbWUiOjQwMC4wMDAwMDAwMCwKCQkJCSJwaXRjaFJhbmdlIjo0OCwKCQkJCSJza2lwUmVuZGVyaW5nSWZaZXJvTGV2ZWwiOmZhbHNlLAoJCQkJ
+        InRyYW5zcG9zZVJhbmdlIjoxMgoJCQl9LAoJCQkicHJvY2Vzc2luZ0xldmVsIjowLAoJCQkicHJvZ3JhbU5hbWUiOiJEZWZhdWx0IiwKCQkJInVpZCI6IlN1YiBPc2Mi
+        CgkJfSx7CgkJCSJieXBhc3NlZCI6ZmFsc2UsCgkJCSJpbnN0YW5jZU5hbWUiOiJBbmFsb2cgT3NjIERvdWJsZSIsCgkJCSJpc1NlYWxlZCI6ZmFsc2UsCgkJCSJrZXlU
+        cmFja1ZhbGlkIjp0cnVlLAoJCQkibmNvcCI6OCwKCQkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjQ5MDAwMDAxLDAuNTAw
+        MDAwMDAsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuNTAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwLDAu
+        NTk0OTk5OTcsMS4wMDAwMDAwMCwxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMS4wMDAwMDAwMCwwLjAwMDAwMDAwXSwKCQkJInBhdGgiOiJAQW5sZyIsCgkJCSJwbHVnaW5O
+        YW1lIjoiQW5hbG9nIE9zYyIsCgkJCSJwbHVnaW5TZXR0aW5ncyI6ewoJCQkJImdhaW5Cb29zdCI6MC4wMDAwMDAwMCwKCQkJCSJoaXEiOmZhbHNlLAoJCQkJImxlZ2Fj
+        eURldHVuaW5nIjp0cnVlLAoJCQkJIm1heFBvcnRhVGltZSI6NDAwLjAwMDAwMDAwLAoJCQkJInBpdGNoUmFuZ2UiOjQ4LAoJCQkJInNraXBSZW5kZXJpbmdJZlplcm9M
+        ZXZlbCI6ZmFsc2UsCgkJCQkidHJhbnNwb3NlUmFuZ2UiOjEyCgkJCX0sCgkJCSJwcm9jZXNzaW5nTGV2ZWwiOjAsCgkJCSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJ
+        CQkidWlkIjoiQW5hbG9nIE9zYyBEb3VibGUiCgkJfV0sCgkJInBhcmFtZXRlcnMiOlsxLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjg1MDAwMDAyLDAu
+        NTAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAw
+        LDAuMDAwMDAwMDAsMC4wMDAwMDAwMF0sCgkJInBhdGgiOiJAUWJxTGF5ZXIiLAoJCSJwbHVnaW5OYW1lIjoiUWJxTGF5ZXIiLAoJCSJwbHVnaW5TZXR0aW5ncyI6ewoJ
+        CQkiYWx3YXlzUGxheWluZyI6ZmFsc2UsCgkJCSJleGNsdXNpdmVab25lIjowLAoJCQkiZ2xvYmFsUGl0Y2hTaGlmdFJhbmdlIjozLAoJCQkiZ2xvYmFsVHJhbnNwb3Nl
+        UmFuZ2UiOjEyLAoJCQkibGV2ZWxEZXppcHBlclRpbWVNcyI6MTAuMDAwMDAwMDAsCgkJCSJwb2x5cGhvbnkiOjY0CgkJfSwKCQkicHJvY2Vzc2luZ0xldmVsIjowLAoJ
+        CSJwcm9ncmFtTmFtZSI6IkRlZmF1bHQiLAoJCSJ1aWQiOiJMYXllcjEiCgl9XSwKCSJtaWRpUGxheWVycyI6W10sCgkibW9kcyI6W10sCgkicGFyYW1ldGVycyI6WzAu
+        ODQ0NDQzOTgsMC41MDAwMDAwMCwwLjUwMDAwMDAwLDAuMDAwMDAwMDAsMC4wMDAwMDAwMCwwLjAwMDAwMDAwLDEuMDAwMDAwMDBdLAoJInBhdGNoRm9ybWF0VmVyc2lv
+        biI6MSwKCSJwYXRoIjoiQFFicUluc3RydW1lbnQiLAoJInBpdGNoQmVuZFJhbmdlRG93biI6MywKCSJwaXRjaEJlbmRSYW5nZVVwIjozLAoJInBsdWdpbk5hbWUiOiIu
+        UWJxSW5zdHJ1bWVudCIsCgkicGx1Z2luVmVyc2lvbiI6MSwKCSJwcm9ncmFtTmFtZSI6IlNhZ2EgUGFydHkgU3RhYnMiLAoJInN0YXNoIjoiIiwKCSJ0YWdzIjpbXSwK
+        CSJ0ZW1wbGF0ZVZlcnNpb24iOiIzIiwKCSJ1aWQiOiJJbnN0cnVtZW50Igp9
+        AFNhZ2EgUGFydHkgU3RhYnMAEAAAAA==
+      >
+      PRESETNAME "Saga Party Stabs"
+      FLOATPOS 0 0 0 0
+      FXID {90715F76-B54D-4546-B1CD-A595A70413DA}
+      WAK 0 0
+    >
+  >
+  <TRACK {5AC3CC1E-287F-6F4C-99C3-1981AEF0889A}
+    NAME hammond
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.31013106676666 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5AC3CC1E-287F-6F4C-99C3-1981AEF0889A}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 257 0 1255 849
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 1 0 0
+      <JS midi/midi_CC_mapper ""
+        64 64 0 10 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {52322FBE-266F-1F4B-9317-7C572D7D8F69}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_chorderizer ""
+        0 12 0 0 1 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42308AB2-7EA0-404F-8E8B-D5F0BD191023}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_transpose ""
+        0 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {403DD750-29BB-7344-B862-7C972872CB2F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <AU "AUi: CollaB3 (Collab)" "Collab: CollaB3" "" 1635085685 1215131242 1131375724
+        6QMAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAB4CgAAPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJ
+        QyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9u
+        PSIxLjAiPgo8ZGljdD4KCTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFBQUFBQUFBQUFQQXIrcXVUOEFBQUFMTVh4YlB3eXZsaEVrRmpJQUFBQUFOcXdyamo4
+        MzFOczc4aUo0QUFBQQoJQUR2eUlua0FBQUFBTy9JaWVnQUFBQUE3OGlKN1B3QUFBRHZ5SW53L2dBQUFPL0lpZlQrQUFBQTc4aUorUDRBQUFEdnkKCUluOC9nQUFBTy9J
+        aWdEK0FBQUJDODFyV1A0QUFBRVJWWndJQUFBQUEKCTwvZGF0YT4KCTxrZXk+ZWxlbWVudC1uYW1lPC9rZXk+Cgk8ZGljdD4KCQk8a2V5PjI8L2tleT4KCQk8ZGljdD4K
+        CQkJPGtleT4wPC9rZXk+CgkJCTxzdHJpbmc+Q2hhbm5lbCAxKzI8L3N0cmluZz4KCQk8L2RpY3Q+Cgk8L2RpY3Q+Cgk8a2V5Pmp1Y2VQbHVnaW5TdGF0ZTwva2V5PgoJ
+        PGRhdGE+CglRMjl1ZEhKdmJFUmhkR0VBQVFSTmFXUnBRMmhoYm01bGJFWnBiSFJsY2tSaGRHRUFBUVVCQWdBQUFGQnliMmR5WVcwQQoJQVFVQkFBQUFBRWh2YzNSVVpX
+        MXdid0FCQ1FRQUFBQUFBQUR3djFWelpYSlFjbVZ6WlhRQUFWNEZMMVZ6WlhKekwzQjEKCVpHVnNMMHhwWW5KaGNua3ZRWEJ3YkdsallYUnBiMjRnVTNWd2NHOXlkQzlE
+        YjJ4c1lXSXZRMjlzYkdGQ015OVZjMlZ5CglJRkJ5WlhObGRITXZSbUZqZEc5eWVTOVNiMk5ySUVwaGJTNXdjbVZ6WlhRQUFRTk5hV1JwUVhWMGIyMWhkR2x2YmdBQQoJ
+        QUVsdWRHVnlabUZqWlVSaGRHRUFBQUVCUTI5dWRHVnVkQUFCQVZCeWIyTmxjM052Y2dBQkN3VkpiblJsY21aaFkyVUEKCUFSQkRiMjUwY205c0FBRURkSGx3WlFBQkRn
+        VlRZM0pwY0hSVGJHbGtaWElBYVdRQUFRNEZUV0ZwYmtkaGFXNUxibTlpCglBSFpoYkhWbEFBRUpCQUFBQUFBQUFQaS9BRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5q
+        Y21sd2RFSjFkSFJ2YmdCcAoJWkFBQkRnVndaWEpqVDI1UFptWkNkRzRBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBQUFBUTI5dWRISnZiQUFCQTNSNWNHVUEKCUFRNEZVMk55
+        YVhCMFFuVjBkRzl1QUdsa0FBRU5CWEJsY21OSVlYSnRRblJ1QUhaaGJIVmxBQUVKQkFBQUFBQUFBQUFBCglBRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5qY21sd2RG
+        TnNhV1JsY2dCcFpBQUJEUVZzWldGcllXZGxSMkZwYmdCMgoJWVd4MVpRQUJDUVFBQUFBQU5ETVBRQUJEYjI1MGNtOXNBQUVEZEhsd1pRQUJEZ1ZUWTNKcGNIUlRiR2xr
+        WlhJQWFXUUEKCUFRMEZiR1Z6YkdsbFUzQmxaV1FBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBRUFBUTI5dWRISnZiQUFCQTNSNWNHVUFBUTRGCglVMk55YVhCMFUyeHBaR1Z5
+        QUdsa0FBRU1CWEpsZG1WeVlrdHViMklBZG1Gc2RXVUFBUWtFQUFBQVFPRjZoRDhBUTI5dQoJZEhKdmJBQUJBM1I1Y0dVQUFRNEZVMk55YVhCMFFuVjBkRzl1QUdsa0FB
+        RUxCV05vYjNKMWMwSjBiZ0IyWVd4MVpRQUIKCUNRUUFBQUFBQUFEd1B3QkRiMjUwY205c0FBRURkSGx3WlFBQkRnVlRZM0pwY0hSVGJHbGtaWElBYVdRQUFRNEZTMjV2
+        CglZa1J5WVhkaVlYSXhBSFpoYkhWbEFBRUpCQUFBQUFBQUFBQUFBRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5qY21sdwoJZEZOc2FXUmxjZ0JwWkFBQkRnVkxibTlp
+        UkhKaGQySmhjaklBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBQUFBUTI5dWRISnYKCWJBQUJBM1I1Y0dVQUFRNEZVMk55YVhCMFUyeHBaR1Z5QUdsa0FBRU9CVXR1YjJKRWNt
+        RjNZbUZ5TXdCMllXeDFaUUFCCglDUVFBQUFBQUFBQVVRQUJEYjI1MGNtOXNBQUVEZEhsd1pRQUJEZ1ZUWTNKcGNIUlRiR2xrWlhJQWFXUUFBUTRGUzI1dgoJWWtSeVlY
+        ZGlZWEkwQUhaaGJIVmxBQUVKQkFBQUFBQUFBUEEvQUVOdmJuUnliMndBQVFOMGVYQmxBQUVPQlZOamNtbHcKCWRGTnNhV1JsY2dCcFpBQUJEZ1ZMYm05aVJISmhkMkpo
+        Y2pVQWRtRnNkV1VBQVFrRUFBQUFBQUFBRkVBQVEyOXVkSEp2CgliQUFCQTNSNWNHVUFBUTRGVTJOeWFYQjBVMnhwWkdWeUFHbGtBQUVPQlV0dWIySkVjbUYzWW1GeU5n
+        QjJZV3gxWlFBQgoJQ1FRQUFBQUFBQUFBUUFCRGIyNTBjbTlzQUFFRGRIbHdaUUFCRGdWVFkzSnBjSFJUYkdsa1pYSUFhV1FBQVE0RlMyNXYKCVlrUnlZWGRpWVhJM0FI
+        WmhiSFZsQUFFSkJBQUFBQUFBQUJoQUFFTnZiblJ5YjJ3QUFRTjBlWEJsQUFFT0JWTmpjbWx3CglkRk5zYVdSbGNnQnBaQUFCRGdWTGJtOWlSSEpoZDJKaGNqZ0FkbUZz
+        ZFdVQUFRa0VBQUFBQUFBQUdFQUFRMjl1ZEhKdgoJYkFBQkEzUjVjR1VBQVE0RlUyTnlhWEIwVTJ4cFpHVnlBR2xrQUFFT0JVdHViMkpFY21GM1ltRnlPUUIyWVd4MVpR
+        QUIKCUNRUUFBQUFBQUFBVVFBQk5VRVZFWVhSaEFBRUJSVzVoWW14bFpBQUJBUU1BCgk8L2RhdGE+Cgk8a2V5Pm1hbnVmYWN0dXJlcjwva2V5PgoJPGludGVnZXI+MTEz
+        MTM3NTcyNDwvaW50ZWdlcj4KCTxrZXk+bmFtZTwva2V5PgoJPHN0cmluZz5VbnRpdGxlZDwvc3RyaW5nPgoJPGtleT5zdWJ0eXBlPC9rZXk+Cgk8aW50ZWdlcj4xMjE1
+        MTMxMjQyPC9pbnRlZ2VyPgoJPGtleT50eXBlPC9rZXk+Cgk8aW50ZWdlcj4xNjM1MDg1Njg1PC9pbnRlZ2VyPgoJPGtleT52ZXJzaW9uPC9rZXk+Cgk8aW50ZWdlcj4w
+        PC9pbnRlZ2VyPgo8L2RpY3Q+CjwvcGxpc3Q+CgEAAAAAAAAAAAA=
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E24321D0-BC4E-A44E-A418-EE8EEFA40610}
+      WAK 0 0
+    >
+  >
+  <TRACK {A8540918-1FBB-8647-934B-1C52EA745232}
+    NAME "mellotron 55-89"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.31013106676666 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A8540918-1FBB-8647-934B-1C52EA745232}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 181 168 1331 681
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 1 0 0
+      <JS midi/midi_CC_mapper ""
+        64 64 0 10 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {02193CB6-342F-864E-96D7-147100D6AF72}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_chorderizer ""
+        0 12 0 0 1 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {62FE1521-7D37-3C4B-A0CA-17ECF299769F}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_transpose ""
+        0 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0F3E79C3-C8E3-A143-B24C-526690E3EC62}
+      WAK 0 0
+      BYPASS 0 0 0
+      <AU "AUi: Mel-Lofi 2 (audiolatry)" "audiolatry: Mel-Lofi 2" "" 1635085685 1214199154 1329165671
+        6QMAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHAAAPD94bWwgdmVyc2lv
+        bj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBs
+        ZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGljdD4KCTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFB
+        QUFBQUFBQUJkQUFBQU1RQUFBQUFBQUFBeVAyaTZMd0FBQURNL0FBQUFBQUFBTkQxTW12MEFBQUExUDRBQQoJQUFBQUJoOC9nQUFBQUFEQnNnQUFBQUFBQU1HekFBQUFB
+        QUFBd2JRQUFBQUFBQURCdFFBQUFBQUFBTWswQUFBQUFBQUEKCXlUVUFBQUFBQUFESk5nQUFBQUFBQU1rNUFBQUFBQUFBeVRvQUFBQUFBQURKT3dBQUFBQUFBTWs4QUFB
+        QUFBQUF5VDBBCglBQUFBQUFESlV3QUFBQUFBQU1sVUFBQUFBQUFBeVZVQUFBQUFBQURKVmdBQUFBQUFBTWxYQUFBQUFBS3pzZ0UvYUxvdgoJQXJPeUFqOEFBQUFDczdJ
+        RFB3QUFBQUt6c2dRL0FBQUFBck95QlQ4QUFBQUNzN0lIUHdBQUFBS3pzZ2cvQUFBQUFzSEoKCWdqOW91aThDd2NtRFB3QUFBQUxCeVlRL0FBQUFBc0hKaFQ4QUFBQUN3
+        Y21HUHdBQUFBTEJ5WWcvQUFBQUFzSEppVDhBCglBQUFDeitFRFAyaTZMd0xQNFFRL0FBQUFBcy9oQlQ4QUFBQUN6K0VHUHdBQUFBTFA0UWMvQUFBQUFzL2hDVDhBQUFB
+        QwoJeitFS1B3QUFBQUxkK0lRL2FMb3ZBdDM0aFQ4QUFBQUMzZmlHUHdBQUFBTGQrSWMvQUFBQUF0MzRpRDhBQUFBQzNmaUsKCVB3QUFBQUxkK0lzL0FBQUFBdXdRQlQ5
+        b3VpOEM3QkFHUHdBQUFBTHNFQWMvQUFBQUF1d1FDRDhBQUFBQzdCQUpQd0FBCglBQUxzRUFzL0FBQUFBdXdRREQ4QUFBQUMraWVHUDJpNkx3TDZKNGMvQUFBQUF2b25p
+        RDhBQUFBQytpZUpQd0FBQUFMNgoJSjRvL0FBQUFBdm9uakQ4QUFBQUMraWVOUHdBQUFBTUlQd2MvYUxvdkF3Zy9DRDhBQUFBRENEOEpQd0FBQUFNSVB3by8KCUFBQUFB
+        d2cvQ3o4QUFBQURDRDhOUHdBQUFBTUlQdzQvQUFBQUF4WldpRDlvdWk4REZsYUpQd0FBQUFNV1Zvby9BQUFBCglBeFpXaXo4QUFBQURGbGFNUHdBQUFBTVdWbzQvQUFB
+        QUF4WldqejhBQUFBREpHNEpQMmk2THdNa2Jnby9BQUFBQXlSdQoJQ3o4QUFBQURKRzRNUHdBQUFBTWtiZzAvQUFBQUF5UnVEejhBQUFBREpHNFFQd0FBQUFNeWhZby9h
+        TG92QXpLRml6OEEKCUFBQURNb1dNUHdBQUFBTXloWTAvQUFBQUF6S0ZqajhBQUFBRE1vV1FQd0FBQUFNeWhaRS9BQUFBCgk8L2RhdGE+Cgk8a2V5PmVsZW1lbnQtbmFt
+        ZTwva2V5PgoJPGRpY3Q+CgkJPGtleT4yPC9rZXk+CgkJPGRpY3Q+CgkJCTxrZXk+MDwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCAxPC9zdHJpbmc+CgkJCTxrZXk+MTwv
+        a2V5PgoJCQk8c3RyaW5nPk91dHB1dCAyPC9zdHJpbmc+CgkJCTxrZXk+MTA8L2tleT4KCQkJPHN0cmluZz5PdXRwdXQgMTE8L3N0cmluZz4KCQkJPGtleT4xMTwva2V5
+        PgoJCQk8c3RyaW5nPk91dHB1dCAxMjwvc3RyaW5nPgoJCQk8a2V5PjEyPC9rZXk+CgkJCTxzdHJpbmc+T3V0cHV0IDEzPC9zdHJpbmc+CgkJCTxrZXk+MTM8L2tleT4K
+        CQkJPHN0cmluZz5PdXRwdXQgMTQ8L3N0cmluZz4KCQkJPGtleT4xNDwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCAxNTwvc3RyaW5nPgoJCQk8a2V5PjE1PC9rZXk+CgkJ
+        CTxzdHJpbmc+T3V0cHV0IDE2PC9zdHJpbmc+CgkJCTxrZXk+Mjwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCAzPC9zdHJpbmc+CgkJCTxrZXk+Mzwva2V5PgoJCQk8c3Ry
+        aW5nPk91dHB1dCA0PC9zdHJpbmc+CgkJCTxrZXk+NDwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCA1PC9zdHJpbmc+CgkJCTxrZXk+NTwva2V5PgoJCQk8c3RyaW5nPk91
+        dHB1dCA2PC9zdHJpbmc+CgkJCTxrZXk+Njwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCA3PC9zdHJpbmc+CgkJCTxrZXk+Nzwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCA4
+        PC9zdHJpbmc+CgkJCTxrZXk+ODwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCA5PC9zdHJpbmc+CgkJCTxrZXk+OTwva2V5PgoJCQk8c3RyaW5nPk91dHB1dCAxMDwvc3Ry
+        aW5nPgoJCTwvZGljdD4KCTwvZGljdD4KCTxrZXk+anVjZVBsdWdpblN0YXRlPC9rZXk+Cgk8ZGF0YT4KCUwweHBZbkpoY25rdlFYVmthVzh2VUd4MVp5MUpibk12UTI5
+        dGNHOXVaVzUwY3k5TlpXd3RURzltYVNBeUxtbHVjM1J5CglkVzFsYm5SekwxTjBjbWx1WjNNdlQyTjBZWFpsSUZOMGNtbHVaM011YlhObEFFU3NBQUJFckFBQUFRQUFB
+        QUVBQUFBQgoJQUFBQUFRQUFBQ0FBQUFBZ0FBQUFBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDQUFRQUFBQUVBQUFBQkFBQUEKCTdueVhRQUFBQUFETnpNdysw
+        UC8vL3dBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVAvL0FRQUFBQUVBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQkFBQUFtWm1aUGdBQUFBQUFBQUEvbVptWlBnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEK
+        CUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBRkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBZ0Q4
+        QUFBQkF6TXpNUFRjQUFBQlpBQUFBZndBQUFBQUFBQUFBQUFBQUFBQUFBQUFBd01BQUFBQUEKCUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFCQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFBQUFnRDhBQUFBQWZ3QUFBSDhBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFDREJBQUFBQUFBQUFBQUFBQUFBQVFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBRUFBQUlBL0FBQUFBSDhBQUFCL0FBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBZ3dRQUFBQUFBQUFBQUFBQUFBQUVBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkFBQUNBUHdB
+        QUFBQi9BQUFBZndBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglJTUVBQUFBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEK
+        CUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFCQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQVFBQUFnRDhBQUFBQWZ3QUEKCUFIOEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDREJBQUFBQUFBQUFBQUFBQUFBQVFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQQoJPC9kYXRhPgoJ
+        PGtleT5tYW51ZmFjdHVyZXI8L2tleT4KCTxpbnRlZ2VyPjEzMjkxNjU2NzE8L2ludGVnZXI+Cgk8a2V5Pm5hbWU8L2tleT4KCTxzdHJpbmc+T2N0YXZlIFN0cmluZ3M8
+        L3N0cmluZz4KCTxrZXk+c3VidHlwZTwva2V5PgoJPGludGVnZXI+MTIxNDE5OTE1NDwvaW50ZWdlcj4KCTxrZXk+dHlwZTwva2V5PgoJPGludGVnZXI+MTYzNTA4NTY4
+        NTwvaW50ZWdlcj4KCTxrZXk+dmVyc2lvbjwva2V5PgoJPGludGVnZXI+MDwvaW50ZWdlcj4KPC9kaWN0Pgo8L3BsaXN0PgoPAAAAT2N0YXZlIFN0cmluZ3MAAAAAAAA=
+      >
+      PRESETNAME "Octave Strings"
+      FLOATPOS 0 0 0 0
+      FXID {95ADC23A-DF58-3A4D-8CA7-C6B9B4240A78}
+      WAK 0 0
+    >
+  >
+  <TRACK {EF8B1441-03F1-F34F-A591-1E03E258BC2A}
+    NAME "54 and below"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF8B1441-03F1-F34F-A591-1E03E258BC2A}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 723 785 189
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        10 54 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AB54BE9C-0E4E-4249-BD3F-96308B4A0B03}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0973171E-730B-2649-A699-F066A6E547BC}
+      WAK 0 0
+    >
+  >
+  <TRACK {5D70802A-19E0-A848-B7D9-A6978D022606}
+    NAME 55-89
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5D70802A-19E0-A848-B7D9-A6978D022606}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 742 785 170
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        55 89 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D9259AFC-795E-4E4D-A021-78CB9823586D}
+      WAK 0 0
+    >
+  >
+  <TRACK {E241BC6E-A0F7-7449-8469-5EC5E59450F1}
+    NAME "90 and above"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E241BC6E-A0F7-7449-8469-5EC5E59450F1}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 723 785 189
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        90 118 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F1D420D7-B5AF-B047-9377-0FC9A628A9EC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_transpose ""
+        -12 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {04772ABC-A9D7-F645-AD58-880C6A8AC9B7}
+      WAK 0 0
+    >
+  >
+  <TRACK {931F7ECC-7F69-F741-A904-B68C793FE132}
+    NAME hammond-and-kick
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {931F7ECC-7F69-F741-A904-B68C793FE132}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {EC2E4602-31BE-0F41-AABA-DB61D8002A5F}
+    NAME hammond2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.31013106676666 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EC2E4602-31BE-0F41-AABA-DB61D8002A5F}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 257 624 785 225
+      SHOW 0
+      LASTSEL 2
+      DOCKED 0
+      BYPASS 1 0 0
+      <JS midi/midi_CC_mapper ""
+        64 64 0 10 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9F9B761A-45E4-6A48-9129-675734FE24AD}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_chorderizer ""
+        0 12 0 0 1 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4F83E7C5-9899-4C4E-B56F-C3EF4CCE54FA}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS midi/midi_transpose ""
+        0 1 0 127 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4B27D731-5434-454E-958B-95ADBA5F2F57}
+      WAK 0 0
+      BYPASS 0 0 0
+      <AU "AUi: CollaB3 (Collab)" "Collab: CollaB3" "" 1635085685 1215131242 1131375724
+        6QMAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAB4CgAAPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJ
+        QyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9u
+        PSIxLjAiPgo8ZGljdD4KCTxrZXk+ZGF0YTwva2V5PgoJPGRhdGE+CglBQUFBQUFBQUFBQUFBQUFQQXIrcXVUOEFBQUFMTVh4YlB3eXZsaEVrRmpJQUFBQUFOcXdyamo4
+        MzFOczc4aUo0QUFBQQoJQUR2eUlua0FBQUFBTy9JaWVnQUFBQUE3OGlKN1B3QUFBRHZ5SW53L2dBQUFPL0lpZlQrQUFBQTc4aUorUDRBQUFEdnkKCUluOC9nQUFBTy9J
+        aWdEK0FBQUJDODFyV1A0QUFBRVJWWndJQUFBQUEKCTwvZGF0YT4KCTxrZXk+ZWxlbWVudC1uYW1lPC9rZXk+Cgk8ZGljdD4KCQk8a2V5PjI8L2tleT4KCQk8ZGljdD4K
+        CQkJPGtleT4wPC9rZXk+CgkJCTxzdHJpbmc+Q2hhbm5lbCAxKzI8L3N0cmluZz4KCQk8L2RpY3Q+Cgk8L2RpY3Q+Cgk8a2V5Pmp1Y2VQbHVnaW5TdGF0ZTwva2V5PgoJ
+        PGRhdGE+CglRMjl1ZEhKdmJFUmhkR0VBQVFSTmFXUnBRMmhoYm01bGJFWnBiSFJsY2tSaGRHRUFBUVVCQWdBQUFGQnliMmR5WVcwQQoJQVFVQkFBQUFBRWh2YzNSVVpX
+        MXdid0FCQ1FRQUFBQUFBQUR3djFWelpYSlFjbVZ6WlhRQUFWNEZMMVZ6WlhKekwzQjEKCVpHVnNMMHhwWW5KaGNua3ZRWEJ3YkdsallYUnBiMjRnVTNWd2NHOXlkQzlE
+        YjJ4c1lXSXZRMjlzYkdGQ015OVZjMlZ5CglJRkJ5WlhObGRITXZSbUZqZEc5eWVTOVNiMk5ySUVwaGJTNXdjbVZ6WlhRQUFRTk5hV1JwUVhWMGIyMWhkR2x2YmdBQQoJ
+        QUVsdWRHVnlabUZqWlVSaGRHRUFBQUVCUTI5dWRHVnVkQUFCQVZCeWIyTmxjM052Y2dBQkN3VkpiblJsY21aaFkyVUEKCUFSQkRiMjUwY205c0FBRURkSGx3WlFBQkRn
+        VlRZM0pwY0hSVGJHbGtaWElBYVdRQUFRNEZUV0ZwYmtkaGFXNUxibTlpCglBSFpoYkhWbEFBRUpCQUFBQUFBQUFQaS9BRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5q
+        Y21sd2RFSjFkSFJ2YmdCcAoJWkFBQkRnVndaWEpqVDI1UFptWkNkRzRBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBQUFBUTI5dWRISnZiQUFCQTNSNWNHVUEKCUFRNEZVMk55
+        YVhCMFFuVjBkRzl1QUdsa0FBRU5CWEJsY21OSVlYSnRRblJ1QUhaaGJIVmxBQUVKQkFBQUFBQUFBQUFBCglBRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5qY21sd2RG
+        TnNhV1JsY2dCcFpBQUJEUVZzWldGcllXZGxSMkZwYmdCMgoJWVd4MVpRQUJDUVFBQUFBQU5ETVBRQUJEYjI1MGNtOXNBQUVEZEhsd1pRQUJEZ1ZUWTNKcGNIUlRiR2xr
+        WlhJQWFXUUEKCUFRMEZiR1Z6YkdsbFUzQmxaV1FBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBRUFBUTI5dWRISnZiQUFCQTNSNWNHVUFBUTRGCglVMk55YVhCMFUyeHBaR1Z5
+        QUdsa0FBRU1CWEpsZG1WeVlrdHViMklBZG1Gc2RXVUFBUWtFQUFBQVFPRjZoRDhBUTI5dQoJZEhKdmJBQUJBM1I1Y0dVQUFRNEZVMk55YVhCMFFuVjBkRzl1QUdsa0FB
+        RUxCV05vYjNKMWMwSjBiZ0IyWVd4MVpRQUIKCUNRUUFBQUFBQUFEd1B3QkRiMjUwY205c0FBRURkSGx3WlFBQkRnVlRZM0pwY0hSVGJHbGtaWElBYVdRQUFRNEZTMjV2
+        CglZa1J5WVhkaVlYSXhBSFpoYkhWbEFBRUpCQUFBQUFBQUFBQUFBRU52Ym5SeWIyd0FBUU4wZVhCbEFBRU9CVk5qY21sdwoJZEZOc2FXUmxjZ0JwWkFBQkRnVkxibTlp
+        UkhKaGQySmhjaklBZG1Gc2RXVUFBUWtFQUFBQUFBQUFBQUFBUTI5dWRISnYKCWJBQUJBM1I1Y0dVQUFRNEZVMk55YVhCMFUyeHBaR1Z5QUdsa0FBRU9CVXR1YjJKRWNt
+        RjNZbUZ5TXdCMllXeDFaUUFCCglDUVFBQUFBQUFBQVVRQUJEYjI1MGNtOXNBQUVEZEhsd1pRQUJEZ1ZUWTNKcGNIUlRiR2xrWlhJQWFXUUFBUTRGUzI1dgoJWWtSeVlY
+        ZGlZWEkwQUhaaGJIVmxBQUVKQkFBQUFBQUFBUEEvQUVOdmJuUnliMndBQVFOMGVYQmxBQUVPQlZOamNtbHcKCWRGTnNhV1JsY2dCcFpBQUJEZ1ZMYm05aVJISmhkMkpo
+        Y2pVQWRtRnNkV1VBQVFrRUFBQUFBQUFBRkVBQVEyOXVkSEp2CgliQUFCQTNSNWNHVUFBUTRGVTJOeWFYQjBVMnhwWkdWeUFHbGtBQUVPQlV0dWIySkVjbUYzWW1GeU5n
+        QjJZV3gxWlFBQgoJQ1FRQUFBQUFBQUFBUUFCRGIyNTBjbTlzQUFFRGRIbHdaUUFCRGdWVFkzSnBjSFJUYkdsa1pYSUFhV1FBQVE0RlMyNXYKCVlrUnlZWGRpWVhJM0FI
+        WmhiSFZsQUFFSkJBQUFBQUFBQUJoQUFFTnZiblJ5YjJ3QUFRTjBlWEJsQUFFT0JWTmpjbWx3CglkRk5zYVdSbGNnQnBaQUFCRGdWTGJtOWlSSEpoZDJKaGNqZ0FkbUZz
+        ZFdVQUFRa0VBQUFBQUFBQUdFQUFRMjl1ZEhKdgoJYkFBQkEzUjVjR1VBQVE0RlUyTnlhWEIwVTJ4cFpHVnlBR2xrQUFFT0JVdHViMkpFY21GM1ltRnlPUUIyWVd4MVpR
+        QUIKCUNRUUFBQUFBQUFBVVFBQk5VRVZFWVhSaEFBRUJSVzVoWW14bFpBQUJBUU1BCgk8L2RhdGE+Cgk8a2V5Pm1hbnVmYWN0dXJlcjwva2V5PgoJPGludGVnZXI+MTEz
+        MTM3NTcyNDwvaW50ZWdlcj4KCTxrZXk+bmFtZTwva2V5PgoJPHN0cmluZz5VbnRpdGxlZDwvc3RyaW5nPgoJPGtleT5zdWJ0eXBlPC9rZXk+Cgk8aW50ZWdlcj4xMjE1
+        MTMxMjQyPC9pbnRlZ2VyPgoJPGtleT50eXBlPC9rZXk+Cgk8aW50ZWdlcj4xNjM1MDg1Njg1PC9pbnRlZ2VyPgoJPGtleT52ZXJzaW9uPC9rZXk+Cgk8aW50ZWdlcj4w
+        PC9pbnRlZ2VyPgo8L2RpY3Q+CjwvcGxpc3Q+CgEAAAAAAAAAAAA=
+      >
+      FLOATPOS 0 0 0 0
+      FXID {05185139-59A3-2844-99BA-890A6C20A0D5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.vst.dylib 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAAAAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAABksiPgAAgD8AAAAAAACAP4/C9TwAAAAAfM6JPoV8kD0E5ww8AACAPwAAgD8AAIA/AAAAPw==
+        AHN0b2NrIC0gdm9jYWwgc2xhcGJhY2sAAAAAAA==
+      >
+      PRESETNAME "stock - vocal slapback"
+      FLOATPOS 0 0 0 0
+      FXID {37080F30-FCBF-3A47-8A32-3D34E7611B5F}
+      WAK 0 0
+    >
+  >
+  <TRACK {7A942573-B520-0240-8F00-1B3FD4F66214}
+    NAME kick
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.49866990604774 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -2
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 1 5089 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7A942573-B520-0240-8F00-1B3FD4F66214}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 31 743 785 201
+      SHOW 0
+      LASTSEL 2
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        35 83 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A37169B9-0326-B644-85DC-1B12E51719C6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS ix/MIDI_KeyMap ""
+        0 "KK - Kick drum.txt" 56 36 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      JS_DIMS 629 486
+      FLOATPOS 0 0 0 0
+      FXID {18C930DE-40C7-5948-BECB-0BCB08E8384B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS midi/midi_note_filter ""
+        35 39 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C56A1685-918F-2848-80AC-953A0DBA966F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <AU "AUi: MT-PowerDrumKit (MANDA AUDIO)" "MANDA AUDIO: MT-PowerDrumKit" "" 1635085685 1297371204 1297370445
+        6QMAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHg4AADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
+        VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
+        Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PkNvbnRyb2xsZXIgU3RhdGU8L2tleT4KCTxkYXRhPgoJPC9kYXRhPgoJPGtleT5Qcm9jZXNzb3IgU3Rh
+        dGU8L2tleT4KCTxkYXRhPgoJQWdBQUFHd0NBQUM0SGtVL2lVRkFQNXFaT1QrVXdDWS9BQUFnUHd3OVBqK1I3MEkvVjVaQVA5aCtNai9ZZmpJL2pTVXcKCVA0MGxNRCtO
+        SlRBL0FBQUFQd0FBQUQ4QUFBQS9QZFN1UHB4VHNUNXZFb00rRjlrT1B4MWFSRDlrVnlJLzRaVW9QNHphCglsVDVPMUM0L1R0UXVQd0FBZ0Q4QUFJQS9BQUNBUHdBQWdE
+        OEFBSUEvQUFDQVB3QUFnRDhBQUlBL0FBQ0FQd0FBZ0Q4QQoJQUlBL0FBQ0FQd0FBZ0Q4QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUpuVFNUOEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FQd0FBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQWdEOEFBQUFBQUFBQUFBQUFBQUFBQUlBL0FB
+        Q0FQd0FBZ0Q4QUFBQUFBQUFBQUFBQUFBQUEKCUFBQUFBQUFBQUJFQWxENFJBSncrQUFDWVBoRUFyRDRSQUxRK0VRQzhQZ0FBQkQ4UkFNUStBQUM0UGdBQXFENEFBTkEr
+        CglBQURZUGdBQXlENEFBT2crRVFEc1BoRUExRDRBQU9BK0FBQ0lQZ0FBb0Q0QUFBQUFFUUQ4UGdBQStENFJBUFErQUFBQQoJQUJFQXpENEFBTUErQUFDd1BnQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBSkErRVFDa1BnQUEKCUFBQUFBQUEvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
+        QUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBL0FBQ0FQQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFB
+        QUFBQUE9Cgk8L2RhdGE+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJQUFBQUFBQUFBQUFBQUFDWkFBQUFBRDlGSHJnQUFBQUJQMEJCaVFBQUFBSS9PWm1hQUFBQUF6
+        OG13SlFBQUFBRVB5QUEKCUFBQUFBQVUvUGowTUFBQUFCajlDNzVFQUFBQUhQMENXVndBQUFBZy9NbjdZQUFBQUNUOHlmdGdBQUFBS1B6QWxqUUFBCglBQXMvTUNXTkFB
+        QUFERDh3SlkwQUFBQU5Qd0FBQUFBQUFBNC9BQUFBQUFBQUR6OEFBQUFBQUFBUVBxN1VQUUFBQUJFKwoJc1ZPY0FBQUFFajZERW04QUFBQVRQdzdaRndBQUFCUS9SRm9k
+        QUFBQUZUOGlWMlFBQUFBV1B5aVY0UUFBQUJjK2xkcU0KCUFBQUFHRDh1MUU0QUFBQVpQeTdVVGdBQUFCby9nQUFBQUFBQUd6K0FBQUFBQUFBY1A0QUFBQUFBQUIwL2dB
+        QUFBQUFBCglIaitBQUFBQUFBQWZQNEFBQUFBQUFDQS9nQUFBQUFBQUlUK0FBQUFBQUFBaVA0QUFBQUFBQUNNL2dBQUFBQUFBSkQrQQoJQUFBQUFBQWxQNEFBQUFBQUFD
+        WS9nQUFBQUFBQUp3QUFBQUFBQUFBb0FBQUFBQUFBQUNrQUFBQUFBQUFBS2dBQUFBQUEKCUFBQXJBQUFBQUFBQUFDd0FBQUFBQUFBQUxRQUFBQUFBQUFBdUFBQUFBQUFB
+        QUM4QUFBQUFBQUFBTUFBQUFBQUFBQUF4CglBQUFBQUFBQUFESUFBQUFBQUFBQU13QUFBQUFBQUFBMEFBQUFBQUFBQURVL1NkT1pBQUFBTmdBQUFBQUFBQUEzQUFBQQoJ
+        QUFBQUFEZ0FBQUFBQUFBQU9RQUFBQUFBQUFBNkFBQUFBQUFBQURzQUFBQUFBQUFBUEFBQUFBQUFBQUE5QUFBQUFBQUEKCUFENEFBQUFBQUFBQVB3QUFBQUFBQUFCQUFB
+        QUFBQUFBQUVFQUFBQUFBQUFBUWdBQUFBQUFBQUJEQUFBQUFBQUFBRVFBCglBQUFBQUFBQVJRQUFBQUFBQUFCR1A0QUFBQUFBQUVjQUFBQUFBQUFBU0FBQUFBQUFBQUJK
+        QUFBQUFBQUFBRW9BQUFBQQoJQUFBQVN3QUFBQUFBQUFCTUFBQUFBQUFBQUUwL2dBQUFBQUFBVGdBQUFBQUFBQUJQQUFBQUFBQUFBRkFBQUFBQUFBQUEKCVVUK0FBQUFB
+        QUFCU1A0QUFBQUFBQUZNL2dBQUFBQUFBVkFBQUFBQUFBQUJWQUFBQUFBQUFBRllBQUFBQUFBQUFWd0FBCglBQUFBQUFCWUFBQUFBQUFBQUZrK2xBQVJBQUFBV2o2Y0FC
+        RUFBQUJiUHBnQUFBQUFBRncrckFBUkFBQUFYVDYwQUJFQQoJQUFCZVByd0FFUUFBQUY4L0JBQUFBQUFBWUQ3RUFCRUFBQUJoUHJnQUFBQUFBR0krcUFBQUFBQUFZejdR
+        QUFBQUFBQmsKCVB0Z0FBQUFBQUdVK3lBQUFBQUFBWmo3b0FBQUFBQUJuUHV3QUVRQUFBR2crMUFBUkFBQUFhVDdnQUFBQUFBQnFQb2dBCglBQUFBQUdzK29BQUFBQUFB
+        YkFBQUFBQUFBQUJ0UHZ3QUVRQUFBRzQrK0FBQUFBQUFiejcwQUJFQUFBQndBQUFBQUFBQQoJQUhFK3pBQVJBQUFBY2o3QUFBQUFBQUJ6UHJBQUFBQUFBSFFBQUFBQUFB
+        QUFkUUFBQUFBQUFBQjJBQUFBQUFBQUFIY0EKCUFBQUFBQUFBZUFBQUFBQUFBQUI1QUFBQUFBQUFBSG9BQUFBQUFBQUFlejZRQUFBQUFBQjhQcVFBRVFBQUFIMEFBQUFB
+        CglBQUFBZmo4QUFBQUFBQUIvQUFBQUFBQUFBSUFBQUFBQUFBQUFnUUFBQUFBQUFBQ0NBQUFBQUFBQUFJTUFBQUFBQUFBQQoJaEFBQUFBQUFBQUNGQUFBQUFBQUFBSVlB
+        QUFBQUFBQUFod0FBQUFBQUFBQ0lBQUFBQUFBQUFJa0FBQUFBQUFBQWlnQUEKCUFBQUFBQUNMQUFBQUFBQUFBSXdBQUFBQUFBQUFqVDhBQUFBQUFBQ09QSUFBQUFBQUFJ
+        OEFBQUFBQUFBQWtBQUFBQUFBCglBQUNSQUFBQUFBQUFBSklBQUFBQUFBQUFrd0FBQUFBQUFBQ1VBQUFBQUFBQUFKVUFBQUFBQUFBQWxnQUFBQUFBQUFDWAoJQUFBQUFB
+        QUFBSmdBQUFBQQoJPC9kYXRhPgoJPGtleT5lbGVtZW50LW5hbWU8L2tleT4KCTxkaWN0PgoJCTxrZXk+Mjwva2V5PgoJCTxkaWN0PgoJCQk8a2V5PjA8L2tleT4KCQkJ
+        PHN0cmluZz4xIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjE8L2tleT4KCQkJPHN0cmluZz4yIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5
+        PjI8L2tleT4KCQkJPHN0cmluZz4zIE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjM8L2tleT4KCQkJPHN0cmluZz40IE1ULVBvd2VyRHJ1bUtpdDwvc3Ry
+        aW5nPgoJCQk8a2V5PjQ8L2tleT4KCQkJPHN0cmluZz41IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjU8L2tleT4KCQkJPHN0cmluZz42IE1ULVBvd2Vy
+        RHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5PjY8L2tleT4KCQkJPHN0cmluZz43IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCQk8a2V5Pjc8L2tleT4KCQkJPHN0cmlu
+        Zz44IE1ULVBvd2VyRHJ1bUtpdDwvc3RyaW5nPgoJCTwvZGljdD4KCTwvZGljdD4KCTxrZXk+bWFudWZhY3R1cmVyPC9rZXk+Cgk8aW50ZWdlcj4xMjk3MzcwNDQ1PC9p
+        bnRlZ2VyPgoJPGtleT5uYW1lPC9rZXk+Cgk8c3RyaW5nPlVudGl0bGVkPC9zdHJpbmc+Cgk8a2V5PnN1YnR5cGU8L2tleT4KCTxpbnRlZ2VyPjEyOTczNzEyMDQ8L2lu
+        dGVnZXI+Cgk8a2V5PnR5cGU8L2tleT4KCTxpbnRlZ2VyPjE2MzUwODU2ODU8L2ludGVnZXI+Cgk8a2V5PnZlcnNpb248L2tleT4KCTxpbnRlZ2VyPjA8L2ludGVnZXI+
+        CjwvZGljdD4KPC9wbGlzdD4KAQAAAAAAAAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DD56BE85-EA50-B141-AA43-7D466E8C471C}
+      WAK 0 0
+    >
+  >
+>
