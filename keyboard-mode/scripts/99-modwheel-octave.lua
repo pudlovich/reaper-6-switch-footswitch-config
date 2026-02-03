@@ -15,10 +15,10 @@ local uptrack = getTrackByName("octave-up")
 if downtrack then -- if a track named "octave-down" was found
   local retval,  buf,  ts,  devIdx = reaper.MIDI_GetRecentInputEvent(0)
   modval = string.byte(buf,3) -- Data Byte 2
-  if modval > 117 then
+  if modval > 120 then
     reaper.SetMediaTrackInfo_Value(downtrack,"I_FXEN",0)
     reaper.SetMediaTrackInfo_Value(uptrack,"I_FXEN",1)
-  elseif modval < 10 then
+  elseif modval < 6 then
     reaper.SetMediaTrackInfo_Value(downtrack,"I_FXEN",1)
     reaper.SetMediaTrackInfo_Value(uptrack,"I_FXEN",0)
   else
